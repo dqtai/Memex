@@ -350,4 +350,19 @@ Abduzeedo
 Huyang, Lu
   LINK : https://luyuhang.net/
   TYPE : uiux
+
+The Noun Project
+  LINK : https://thenounproject.com/
+  TYPE : uiux
+  NOTE : 'Icons and Photos for Everything'
+
+FLATICON
+  LINK : https://www.flaticon.com/
+  TYPE : uiux
+  NOTE : 'vector icons & stickers'
+
+Homepage
+  LINK : https://github.com/gethomepage/homepage
+  NOTE : 'A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.'
+  TAGS : homeserver
 `
