@@ -363,7 +363,7 @@ FLATICON
 
 HOMEPAGE
   LINK : https://github.com/gethomepage/homepage
-  NOTE : 'A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.'
+  NOTE : A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
   TAGS : homeserver
 
 WYNNCRAFT GATHERING PLACES
@@ -379,6 +379,86 @@ WYNNBUILDER | CUMULONIMBUS SET
 Z-LIB
   LINK : https://z-lib.org
   TYPE : ebooks
-  NOTE : 'The world's largest ebook library'
-  TAGS : 
+  NOTE : The world's largest ebook library.
+  TAGS : downloads
+
+PROJECT GUTENBERG
+  LINK : https://www.gutenberg.org/ebooks/search/?sort_order=downloads
+  TYPE : ebooks
+  NOTE : Project Gutenberg was the first provider of eBooks. Michael Hart, founder of Project Gutenberg, invented eBooks in 1971.
+
+OPEN LIBRARY
+  LINK : https://openlibrary.org/
+  TYPE : ebooks
+  NOTE : Internet Archive's Library.
+  TAGS : downloads
+
+SCI-HUB
+  LINK : https://sci-hub.se/
+  TYPE : downloads
+  NOTE : free and unrestricted access to all scientific knowledge.
+
+SEMANTIC SCHOLAR
+  LINK : https://www.semanticscholar.org/
+  TYPE : downloads
+  NOTE : A free, AI-powered research tool for scientific literature
+
+LIBRARY GENESIS
+  LINK : https://libgen.is/
+  TYPE : downloads
+  NOTE : .rs .is & .st domains.
+
+Feedboks | Public Domain
+  LINK : https://www.feedbooks.com/catalog/public_domain
+  TYPE : downloads
+  NOTE : Public domain books
+
+24SYMBOLS
+  LINK : https://www.24symbols.com/
+  TYPE : downloads
+  NOTE : Subscribe to enjoy more than 500,000 e-books on all your digital devices.
+
+GANSO Y PULPO
+  LINK : https://gansoypulpo.com/
+  TYPE : downloads
+  NOTE : proyecto editorial independiente sin ánimo de lucro que pretende reeditar y publicar/difundir textos literarios de difícil acceso y que son considerados de dominio público.
+  
+
+ELEJANDRIA
+  LINK : https://www.elejandria.com/
+  TYPE : downloads
+  NOTE : Libros de dominio público.
+
+SCRIB DOWNLOADER
+  LINK : https://docdownloader.com/
+  TYPE : downloads
+
+EPUB LIBRE
+  LINK : https://www.epublibre.org/
+  TYPE : downloads
+
+LECTULANDIA
+  LINK : https://ww3.lectulandia.com/
+  TYPE : downloads
+
+EBOOKELO
+  LINK : https://ww2.ebookelo.com/
+  TYPE : downloads
+
+EPUB GRATIS
+  LINK : https://www.epubgratis.info/
+  TYPE : downloads
+
+PLANETA LIBRO
+  LINK : https://planetalibro.net/
+  TYPE : downloads
+
+WIKISOURCER
+  LINK : https://es.wikisource.org/wiki/Portada  
+  TYPE : downloads
+
+  E-READING CLUB
+  LINK : https://www.e-reading.club/
+  TYPE : downloads
+  NOTE : Russian site
 `
