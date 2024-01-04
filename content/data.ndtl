@@ -368,7 +368,7 @@ HOMEPAGE
 
 NAME
   KEY : VALUE
-  LIST
+  LIST :
     ITEM1
     ITEM2
 `
