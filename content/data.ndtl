@@ -369,10 +369,16 @@ HOMEPAGE
 WYNNCRAFT GATHERING PLACES
   LINK : https://forums.wynncraft.com/threads/list-of-places-to-gather-materials.239484/
   TYPE : games
-  TAGS : Wynncraft
+  TAGS : wynncraft
 
 WYNNBUILDER | CUMULONIMBUS SET
   LINK : https://hppeng-wynn.github.io/builder/#8_0Au09-0jn0wh0vI0vI0K40OH07f0s0Y0Y0J1Z1g000000z0z0+0+0+0+0-llwpppl1
   TYPE : games
-  TAGS : Wynncraft
+  TAGS : wynncraft
+
+Z-LIB
+  LINK : https://z-lib.org
+  TYPE : ebooks
+  NOTE : 'The world's largest ebook library'
+  TAGS : 
 `
