@@ -376,20 +376,22 @@ WYNNBUILDER | CUMULONIMBUS SET
   TYPE : games
   TAGS : wynncraft
 
+
+
 Z-LIB
   LINK : https://z-lib.org
-  TYPE : ebooks
+  TYPE : downloads
   NOTE : The world's largest ebook library.
   TAGS : downloads
 
 PROJECT GUTENBERG
   LINK : https://www.gutenberg.org/ebooks/search/?sort_order=downloads
-  TYPE : ebooks
+  TYPE : downloads
   NOTE : Project Gutenberg was the first provider of eBooks. Michael Hart, founder of Project Gutenberg, invented eBooks in 1971.
 
 OPEN LIBRARY
   LINK : https://openlibrary.org/
-  TYPE : ebooks
+  TYPE : downloads
   NOTE : Internet Archive's Library.
   TAGS : downloads
 
@@ -423,7 +425,6 @@ GANSO Y PULPO
   TYPE : downloads
   NOTE : proyecto editorial independiente sin ánimo de lucro que pretende reeditar y publicar/difundir textos literarios de difícil acceso y que son considerados de dominio público.
   
-
 ELEJANDRIA
   LINK : https://www.elejandria.com/
   TYPE : downloads
