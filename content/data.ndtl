@@ -367,8 +367,8 @@ HOMEPAGE
   TAGS : homeserver
 
 NAME
-	KEY : VALUE
-	LIST
-		ITEM1
-		ITEM2
+  KEY : VALUE
+  LIST
+    ITEM1
+    ITEM2
 `
