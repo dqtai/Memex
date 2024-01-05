@@ -566,6 +566,21 @@ ELEMENT
 
 
 
+FUTURE TOOLS
+  LINK : https://www.futuretools.io/
+  TYPE : tool
+  NOTE : Index of AI programs.
+
+CHATPAD AI
+  LINK : https://chatpad.ai/
+  TYPE : tool
+  NOTE : Open-Source ChatGPT user-interface.
+
+FOREFRONT
+  LINK : https://www.forefront.ai/
+  TYPE : tool
+  NOTE : Choose from powerful models, chat with files, browse the internet, bring your team, customize assistants, share chats, and much more.
+
 HUGGING FACE
   LINK : https://huggingface.co/
   TYPE : tool
@@ -594,6 +609,67 @@ ARCHIVE PAGE
   LINK : https://archive.is/
   TYPE : tool
   NOTE : Saves a text and a graphical copy of the page that will always be online even if the original page disappears.
+
+AXIOM
+  LINK : https://axiom.ai/
+  TYPE : tool 
+  NOTE : Browser Automation. Quickly, without code.
+
+PERPLEXITY
+  LINK : https://www.perplexity.ai/
+  TYPE : tool
+
+MERLIN
+  LINK : https://www.getmerlin.in/
+  TYPE : tool
+
+WOLFRAM | ALPHA
+  LINK : https://www.wolframalpha.com/
+  TYPE : tool
+  NOTE : Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
+
+EIGHTIFY
+  LINK : https://eightify.app/
+  TYPE : tool
+  NOTE : YouTube video summaries AI tool.
+
+LOVO
+  LINK : https://lovo.ai/
+  TYPE : tool
+  NOTE : AI Voice Generator: Realistic Text to Speech & Voice Cloning.
+
+A.V. MAPPING
+  LINK : https://avmapping.co/en/
+  TYPE : tool
+  NOTE : Finds your music & sfx with audio editing.
+
+KLU
+  LINK : https://klu.ai/
+  TYPE : tool
+  NOTE : Collaborate on prompts, evaluate, and optimize LLM-powered Apps.
+
+AJELIX
+  LINK : https://ajelix.com/
+  TYPE : tool
+  NOTE : Excel & Google Sheets Tools that help you write formulas, translate spreadsheets, generate templates, create reports, analyze data with AI, and write VBA scripts.
+
+NUMEROUS
+  LINK : https://numerous.ai/
+  TYPE : tool
+  NOTE : Use AI for writing content, product descriptions, SEO keywords, and more in bulk. Excel & Google Sheets.
+
+ZEG
+  LINK : https://www.zeg.ai/
+  TYPE : tool
+  NOTE : Get stunning photos/ videos of your Product without sending the product to a studio.
+
+STYLIZED
+  LINK : https://www.stylized.ai/
+  TYPE : tool
+  NOTE : Take professional product photos in any lighting, with any backdrop.
+
+
+
 
 
 
@@ -658,4 +734,10 @@ AWWWARDS
   LINK : https://www.awwwards.com/
   TYPE : web design
   NOTE : Collection of impressive web designs.
+
+
+
+
+
+a
 `
