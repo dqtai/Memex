@@ -1,4 +1,8 @@
 var DATABASE = `
+THE MEGEN
+  LINK : https://github.com/nm0i/slim-themegen
+  TYPE : login manager
+
 SYNTHGREETER
   LINK : https://github.com/Landryl/synthgreeter
   TYPE : lightdm
@@ -550,6 +554,52 @@ GRIMOIRE
   LINK : https://github.com/goniszewski/grimoire
   TYPE : software
   NOTE : Self-Hosted bookmarks manager.
+  TAGS : app
+
+ELEMENT
+  LINK : https://element.io/
+  TYPE : software
+  NOTE : Self-Hosted messaging app with Matrix protocol.
+  TAGS : app
 
 
+
+
+
+HUGGING FACE
+  LINK : https://huggingface.co/
+  TYPE : tool
+
+GOOGLE BARD
+  LINK :
+  TYPE : tool
+
+CONSENSUS
+  LINK : https://consensus.app/
+  TYPE : tool
+  NOTE : Search engine that uses AI to find insights in research papers.
+  TAGS : downloads
+
+SITE SHOT
+  LINK : https://www.site-shot.com/
+  TYPE : tool
+  NOTE : Capture a website screenshot online.
+
+12FT
+  LINK : https://12ft.io/
+  TYPE : tool
+  NOTE : Remove popups, banners, and ads from any website.
+
+ARCHIVE PAGE
+  LINK : https://archive.is/
+  TYPE : tool
+  NOTE : Saves a text and a graphical copy of the page that will always be online even if the original page disappears.
+
+
+
+
+
+TYMPANUS CODROPS
+  LINK : https://tympanus.net/codrops/
+  TYPE : web design
 `
