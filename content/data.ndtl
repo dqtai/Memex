@@ -566,6 +566,25 @@ LIBRUM READER
   LINK : https://librumreader.com/
   TYPE : software
   NOTE : A clean and powerful way to read and manage your e-books on any device.
+  TAGS : app
+
+LOCAL MONERO
+  LINK : https://f-droid.org/en/packages/co.localmonero.app/
+  TYPE : software
+  NOTE : Buy or sell Monero without ID verification. Cash or online. Safe, fast, easy.
+  TAGS : app
+
+STACK WALLET
+  LINK : https://stackwallet.com/
+  TYPE : software
+  NOTE : Open-Source, non-custodial, privacy-preserving cryptocurrency wallet.
+  TAGS : app
+
+OPEN-SOURCE IOS APPS
+  LINK : https://github.com/dkhamsing/open-source-ios-apps
+  TYPE : software
+  NOTE : 📱 Collaborative List of Open-Source iOS Apps.
+  TAGS : app
 
 
 
@@ -826,6 +845,11 @@ PLAN YOUR ROOM
   LINK : http://www.planyourroom.com/
   TYPE : tool
 
+RADIOOOOO
+  LINK : https://radiooooo.com/
+  TYPE : tool
+  NOTE : Many radio stations of the world.
+
 MEMEX
   LINK : https://memex.garden/
   TYPE : tool
@@ -840,6 +864,26 @@ GET HUMAN
   LINK : https://gethuman.com/
   TYPE : tool
   NOTE : Contact customer service of companies instead of bots.
+
+urlwatch
+  LINK : https://github.com/thp/urlwatch
+  TYPE : tool
+  NOTE : Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
+
+FORWARD EMAIL
+  LINK : https://forwardemail.net/es
+  TYPE : tool  
+  NOTE : E-mail service with 100% open-source and transparent monitoring.  Unlimited addresses and domains for $3/mo.
+
+TECHNICAL CITY
+  LINK : https://technical.city/en
+  TYPE : tool
+  NOTE : Unbiased hardware comparisons.
+
+h-node
+  LINK : https://h-node.org/
+  TYPE : tool
+  NOTE : Identify what devices work with a fully free operating system.
 
 
 
@@ -927,7 +971,7 @@ THE DAILY SWIG
 THE OPEN UNIVERSITY
   LINK : https://www5.open.ac.uk/open-educational-resources/openlearn/free-learning
   TYPE : guides
-  NOTE : 
+  NOTE : The OU provides around 5% of its formal course materials as free open educational content every year on OpenLearn.
 
 BUILD YOUR OWN X
   LINK : https://github.com/codecrafters-io/build-your-own-x
@@ -948,6 +992,16 @@ BRILLIANT
   LINK : https://brilliant.org/courses/
   TYPE : guides
   NOTE : Step-by-step paths to mastery.
+
+CROSSROADS INITIATIVE
+  LINK : https://www.crossroadsinitiative.com/
+  TYPE : guides
+  NOTE : Biblical lessons.
+
+METRCOSM
+  LINK : https://metrocosm.com/
+  TYPE : guides
+  NOTE : Diverse charts of the world.
 
 CAMBRIDGE IN COLOUR
   LINK : https://www.cambridgeincolour.com/
@@ -974,4 +1028,26 @@ FUTURE LEARN
   TYPE : guides
   NOTE : Tailored courses designed to give your future a workout.
 
+BIT 2 ME
+  LINK : https://academy.bit2me.com/
+  TYPE : guides
+  NOTE : La formación en Criptomonedas y Blockchain 100% gratuita.
+
+BLACKJACK APPRENTICESHIP
+  LINK : https://www.blackjackapprenticeship.com/
+  TYPE : guides
+  NOTE : Learn card counting.
+
+LEARN PYTHON
+  LINK : https://www.learnpython.org/  
+  TYPE : guides
+  NOTE : Interactive coding challenges and videos by expert instructors.
+
+12 PYTHON PROJECTS
+  LINK : https://youtu.be/8ext9G7xspg
+  TYPE : guides
+
+Security Certification Roadmap
+  LINK : https://pauljerimy.com/security-certification-roadmap/
+  TYPE : guides
 `
