@@ -979,8 +979,54 @@ THE DAILY SWIG
   TYPE : news
   NOTE : Cybersecurity news and views.
 
+THE EPOCH TIMES 
+  LINK : https://www.theepochtimes.com/
+  TYPE : news
 
+VOLTAIRE NETWORK
+  LINK : https://www.voltairenet.org/?lang=en 
+  TYPE : news
 
+S&P GLOBAL
+  LINK : https://www.spglobal.com/en/  
+  TYPE : news
+
+BARCHART
+  LINK : https://www.barchart.com/
+  TYPE : news
+
+MARKET SCREENER
+  LINK : https://www.marketscreener.com/
+  TYPE : news
+
+MARKET WATCH
+  LINK : https://www.marketwatch.com/
+  TYPE : news
+  NOTE : Financial news.
+
+YAHOO FINANCE
+  LINK :  https://finance.yahoo.com/
+  TYPE : news
+
+npr
+  LINK : https://www.npr.org/
+  TYPE : news
+
+MUNDIARIO
+  LINK : https://www.mundiario.com/
+  TYPE : news
+
+FOREX FACTORY
+  LINK : https://www.forexfactory.com/
+  TYPE : news
+
+CRYPTO BRIEFIGN
+  LINK : https://cryptobriefing.com/
+  TYPE : news
+
+MADDISON PROJECT
+  LINK : https://www.rug.nl/ggdc/historicaldevelopment/maddison/
+  TYPE : news
 
 
 THE OPEN UNIVERSITY
@@ -1071,10 +1117,6 @@ SUPER COOK
   TYPE : guides
   NOTE : Filter recipes by the ingredients you have
 
-
-
-
-
 JAKEG BLOGS
   LINK : https://jakegines.in/
   TYPE : guides
@@ -1083,5 +1125,75 @@ JAKEG BLOGS
 
 
 
+QUIVER QUANTITATIVE
+  LINK : https://www.quiverquant.com/
+  TYPE : finance
 
+TIME CHAIN CALENDAR
+  LINK : https://timechaincalendar.com/en
+  TYPE : finance
+  NOTE : BTC's blockchain data.2
+
+SYKLO EXCHANGE
+  LINK : https://syklo.io/en/
+  TYPE : finance
+  NOTE : Compra y vendde USDC.
+
+BOGGED FINANCE
+  LINK : https://www.bogged.finance/
+  TYPE : All-In-One Platform for DeFi Trading.
+
+DEX TOOLS
+  LINK : https://www.dextools.io/app/en/pairs
+  TYPE : finance
+
+DEX GURU
+  LINK : https://dex.guru
+  TYPE : finance
+
+POOCOIN
+  LINK : https://poocoin.app/
+  TYPE : finance
+  NOTE : BSC charts.
+
+BABY PIPS
+  LINK : https://marketmilk.babypips.com/
+  TYPE : finance
+  NOTE : Market snapshot, currency strength, heat map, market movers.
+
+DATAROMA
+  LINK : https://www.dataroma.com/m/home.php  
+  TYPE : finance
+  NOTE : Invest alongside Superinvestors.
+
+XANGLE
+  LINK : https://xangle.io/en
+  TYPE : finance
+  NOTE : Web3 Data Intelligence platform.
+
+CIELO FINANCE
+  LINK : https://cielo.finance/
+  TYPE : finance
+  NOTE : Wallet tracker.
+
+UNI WHALES
+  LINK : https://www.uniwhales.io/
+  TYPE : finance
+
+MESSARI
+  LINK : https://messari.io/
+  TYPE : finance
+
+FINVIZ
+  LINK : https://finviz.com/
+  TYPE : finance
+
+TENSOR CHARTS
+  LINK : https://www.tensorcharts.com/
+  TYPE : finance
+
+3rd DIMENSION
+  LINK : https://thirddimension.exchange/
+  TYPE : finance
+  NOTE : Multiple exchanges & data providers.
 `
