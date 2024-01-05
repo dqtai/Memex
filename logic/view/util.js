@@ -13,7 +13,7 @@ function Util()
     let icon = '';
     switch (type) 
     {
-        case 'article': icon = 'far fa-newspaper'; break;
+        case 'news': icon = 'far fa-newspaper'; break;
         case 'podcast': icon = 'fas fa-podcast'; break;
         case 'video': icon = 'fas fa-tv'; break;
         case 'list': icon = 'fas fa-file-alt'; break;
