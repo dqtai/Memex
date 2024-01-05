@@ -67,9 +67,17 @@ MODERN
   LINK : https://github.com/ffwff/modern
   TYPE : lightdm
 
-SUSHI, PERSONAL FINANCE
-  LINK : https://github.com/jerameel/sushi
-  TYPE : app
+DELICIOUS
+  LINK : https://github.com/stuomas/delicious-sddm-theme
+  TYPE : login manager
+
+MINIMALIST
+  LINK : https://github.com/flateos/sddm
+  TYPE : login manager
+
+
+
+
 
 ROFI THEMES
   LINK : https://github.com/adi1090x/rofi
@@ -366,6 +374,10 @@ HOMEPAGE
   NOTE : A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
   TAGS : homeserver
 
+
+
+
+
 WYNNCRAFT GATHERING PLACES
   LINK : https://forums.wynncraft.com/threads/list-of-places-to-gather-materials.239484/
   TYPE : games
@@ -375,6 +387,13 @@ WYNNBUILDER | CUMULONIMBUS SET
   LINK : https://hppeng-wynn.github.io/builder/#8_0Au09-0jn0wh0vI0vI0K40OH07f0s0Y0Y0J1Z1g000000z0z0+0+0+0+0-llwpppl1
   TYPE : games
   TAGS : wynncraft
+
+SKIN MC | BANNER GENERATOR
+  LINK : https://skinmc.net/banner/editor
+  TYPE : games
+  TAGS : minecraft
+
+
 
 
 
@@ -458,8 +477,79 @@ WIKISOURCER
   LINK : https://es.wikisource.org/wiki/Portada  
   TYPE : downloads
 
-  E-READING CLUB
+E-READING CLUB
   LINK : https://www.e-reading.club/
   TYPE : downloads
   NOTE : Russian site
+
+
+
+
+
+SMART EDGE
+  LINK : https://github.com/abh80/smart-edge
+  TYPE : software
+  NOTE : Dynamic Island for Android.
+  TAGS : app, android
+
+DYNAMIC ISLAND
+  LINK : https://github.com/Angel-Studio/MaterialYou-Dynamic-Island
+  TYPE : software
+  NOTE : Dynamic Island for Android API 31 (Android 12) and above.
+  TAGS : app, android
+
+DROID-IFY
+  LINK : https://github.com/Droid-ify/client
+  TYPE : software
+  NOTE : A quick material F-Droid client.
+  TAGS : app, android
+
+HABO
+  LINK : https://github.com/xpavle00/Habo
+  TYPE : software
+  NOTE : Open-Source habit tracker.
+  TAGS : app, android
+  
+GYM ROUTINES
+  LINK : https://codeberg.org/noahjutz/GymRoutines
+  TYPE : software
+  NOTE : Open-Source fitness tracker for Android.
+  TAGS : app, android
+
+KITCHEN OWL
+  LINK : https://github.com/TomBursch/kitchenowl
+  TYPE : software
+  NOTE : Self-Hosted grocery list and recipe manager.
+  TAGS : app, android
+
+EN RECIPES
+  LINK : https://enrecipes.vishnuraghav.com/
+  TYPE : software
+  NOTE : A Simple, Offline Recipe Manager.
+  TAGS : app, android
+
+SUSHI
+  LINK : https://github.com/jerameel/sushi
+  TYPE : softtware
+  NOTE : A personal finance management app
+  TAGS : app, android
+
+INVIDIOUS
+  LINK : https://invidious.io/
+  TYPE : software
+  NOTE : Open-Source alternative front-end to YouTube.
+  TAGS : app
+
+ESPANSO
+  LINK : https://espanso.org/
+  TYPE : software
+  NOTE : Espanso detects when you type a keyword and replaces it while you're typing. Text Expander.
+  TAGS : app
+
+GRIMOIRE
+  LINK : https://github.com/goniszewski/grimoire
+  TYPE : software
+  NOTE : Self-Hosted bookmarks manager.
+
+
 `
