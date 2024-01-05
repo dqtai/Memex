@@ -817,7 +817,6 @@ GNOD
   TYPE : tool  
   NOTE : Recommends music that you may like .
 
-
 BIBISCO
   LINK : https://github.com/andreafeccomandi/bibisco
   TYPE : tool
@@ -831,6 +830,16 @@ MEMEX
   LINK : https://memex.garden/
   TYPE : tool
   NOTE : Organise, annotate & discuss websites, PDFs, YouTube videos without leaving your tab. By yourself, with your peers & enhanced by AI.
+
+SNUSBASE
+  LINK : https://snusbase.com/
+  TYPE : tool
+  NOTE : The longest-standing data breach search engine.
+
+GET HUMAN 
+  LINK : https://gethuman.com/
+  TYPE : tool
+  NOTE : Contact customer service of companies instead of bots.
 
 
 
@@ -897,4 +906,72 @@ AWWWARDS
   LINK : https://www.awwwards.com/
   TYPE : web design
   NOTE : Collection of impressive web designs.
+
+
+
+
+
+MEDICAL NEWS TODAY
+  LINK : https://www.medicalnewstoday.com/
+  TYPE : news
+
+THE DAILY SWIG
+  LINK : https://portswigger.net/daily-swig
+  TYPE : news
+  NOTE : Cybersecurity news and views.
+
+
+
+
+
+THE OPEN UNIVERSITY
+  LINK : https://www5.open.ac.uk/open-educational-resources/openlearn/free-learning
+  TYPE : guides
+  NOTE : 
+
+BUILD YOUR OWN X
+  LINK : https://github.com/codecrafters-io/build-your-own-x
+  TYPE : guides
+  NOTE : A compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+
+ROADMAP.SH
+  LINK : https://roadmap.sh/
+  TYPE : guides
+  NOTE : roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
+
+THE ODIN PROJECT
+  LINK : https://github.com/TheOdinProject
+  TYPE : guides
+  NOTE : Open-Source curriculum for learning full-stack web development.
+
+BRILLIANT
+  LINK : https://brilliant.org/courses/
+  TYPE : guides
+  NOTE : Step-by-step paths to mastery.
+
+CAMBRIDGE IN COLOUR
+  LINK : https://www.cambridgeincolour.com/
+  TYPE : guides
+  NOTE : Photography tutorials.
+
+CHORDBOOK
+  LINK : https://chordbook.com/learn-guitar/
+  TYPE : guides
+  NOTE : Free Guitar Videos, Chord Theory and Music Theory.
+
+MUSICTHEORY
+  LINK : https://www.musictheory.net/lessons
+  TYPE : guides
+  NOTE : Music Theory lessons.
+
+CAPACÍTATE PARA EL EMPLEO
+  LINK : https://capacitateparaelempleo.org/
+  TYPE : guides
+  NOTE : Cursos, rutas de aprendizaje, diplomados, bolsas de trabajo.
+
+FUTURE LEARN
+  LINK : https://www.futurelearn.com/
+  TYPE : guides
+  NOTE : Tailored courses designed to give your future a workout.
+
 `
