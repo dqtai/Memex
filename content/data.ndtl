@@ -294,6 +294,11 @@ TECHNICAL CITY
   TYPE : tool
   NOTE : Unbiased hardware comparisons.
 
+SUPABASE
+  LINK : https://supabase.com/
+  TYPE : tool
+  NOTE : Open-Source Firebase alternative.
+
 h-node
   LINK : https://h-node.org/
   TYPE : tool
@@ -318,10 +323,31 @@ MAKE LINUX LIVE ISO
   TYPE : tool
 
 CHANGBAI MEMEX
-  LINK : https://memex.changbai.li/#term
+  LINK : https://memex.changbai.li/
   LINK : https://github.com/dotcli/memex
   TYPE : tool
   TAGS : memex
+
+SADEMILK MEMEX
+  LINK : https://sademik.github.io/memex/
+  TYPE : tool
+  TAGS : memex
+
+PULCINELLO MEMEX
+  LINK : https://github.com/pulcinello/memex
+  TYPE : tool
+  TAGS : memex
+
+GEEKKID MEMEX
+  LINK : https://geekkid1.github.io/memex/#
+  TYPE : tool
+  TAGS : memex
+
+MEMEX BLOG
+  LINK : https://kor.nz/projects/memex
+  TYPE : tool
+  TAGS : memex
+
 
 
 
@@ -402,6 +428,18 @@ GRIMOIRE
   NOTE : Self-Hosted bookmarks manager.
   TAGS : app
 
+BLAZE
+  LINK : https://github.com/blenderskool/blaze
+  TYPE : software
+  TAGS : appp
+  NOTE : Blaze is a file sharing progressive web app(PWA) that allows users to transfer files between multiple devices.
+
+FAV BOX
+  LINK : https://github.com/dd3v/favbox?tab=readme-ov-file
+  TYPE : software
+  TAGS : app
+  NOTE : FavBox is a browser extension that simplifies and improves bookmark management, without relying on external cloud storage or third-party services.
+
 ELEMENT
   LINK : https://element.io/
   TYPE : software
@@ -419,6 +457,12 @@ LOCAL MONERO
   TYPE : software
   NOTE : Buy or sell Monero without ID verification. Cash or online. Safe, fast, easy.
   TAGS : app, android
+
+RABBY
+  LINK : https://rabby.io/
+  TYPE : software
+  TAGS : app, android
+  NOTE : Multi-chain wallet alternative to MetaMask.
 
 STACK WALLET
   LINK : https://stackwallet.com/
@@ -713,6 +757,10 @@ THERE IS NO HORIZON
   TYPE : software
   TAGS : rice
 
+CRYSTAL
+  LINK : https://github.com/chadcat7/crystal
+  TYPE : software
+  TAGS : rice
 
 
 
@@ -1059,6 +1107,11 @@ SYKLO EXCHANGE
   LINK : https://syklo.io/en/
   TYPE : finance
   NOTE : Compra y vendde USDC.
+
+COIN STATS
+  LINK : https://coinstats.app/
+  TYPE : finance
+  NOTE : Manage Your Crypto, DeFi & NFTs From One Place
 
 BOGGED FINANCE
   LINK : https://www.bogged.finance/
