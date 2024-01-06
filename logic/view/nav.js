@@ -66,5 +66,23 @@ function Nav()
       navContent += `</a>`;
     }
     navContent += `</div>`;
+    
+    // TAGS
+    navContent += `<div class="nav-itemgroup">`;
+    if (value.tags.length > 0)
+    {
+      navContent += `<div class="nav-tagcontainer">`;
+      navContent += `<i title="tags" class="nav-tagicon fas fa-tag"></i>`;
+      for (var t = 0; t < Math.min(value.tags.length, SETTINGS.STATSNUMTAGS); t++) 
+      {
+        navContent += `<a class="nav-tag" href='#tag-${value.tags[t][0]}'>`;
+        navContent += `<div class="nav-tagcount">${value.tags[t][1]}</div>`;
+        navContent += `<div class="nav-taglabel">${value.tags[t][0]}</div>`;
+        navContent += `</a>`;
+      }
+      navContent += `</div>`;
+    }
+    navContent += `</div>`;
+    this.container.innerHTML = navContent;
   }
 }
