@@ -1,89 +1,322 @@
 var DATABASE = `
-THE MEGEN
-  LINK : https://github.com/nm0i/slim-themegen
-  TYPE : login manager
+FUTURE TOOLS
+  LINK : https://www.futuretools.io/
+  TYPE : tool
+  NOTE : Index of AI programs.
 
-SYNTHGREETER
-  LINK : https://github.com/Landryl/synthgreeter
-  TYPE : lightdm
+FUTURE PEDIA
+  LINK : https://www.futurepedia.io/
+  TYPE : tool
+  NOTE : Index of AI programs.
 
-MAHAKALI
-  LINK : https://github.com/Sanatana-Linux/mahakali-webkit2-theme
-  TYPE : lightdm
+CHATPAD AI
+  LINK : https://chatpad.ai/
+  TYPE : tool
+  NOTE : Open-Source ChatGPT user-interface.
 
-TINY GREETER
-  LINK : https://www.reddit.com/r/unixporn/comments/dy66ue/lightdmtinygreeter_tiny_material/
-  TYPE : lightdm
+FOREFRONT
+  LINK : https://www.forefront.ai/
+  TYPE : tool
+  NOTE : Choose from powerful models, chat with files, browse the internet, bring your team, customize assistants, share chats, and much more.
 
-VAPORWAVE
-  LINK : https://github.com/xbelanch/Lightdm-Webkit2-Vaporwave
-  TYPE : lightdm
+HUGGING FACE
+  LINK : https://huggingface.co/
+  TYPE : tool
 
-MINIMAL AND LIGHT
-  LINK : https://www.reddit.com/r/unixporn/comments/c2sryu/lightdm_minimal_and_light/
-  TYPE : lightdm
+GOOGLE BARD
+  LINK :
+  TYPE : tool
 
-VISCERAL
-  LINK : https://github.com/tony-attia/visceral
-  TYPE : lightdm
+CONSENSUS
+  LINK : https://consensus.app/
+  TYPE : tool
+  NOTE : Search engine that uses AI to find insights in research papers.
+  TAGS : downloads
 
-NEON
-  LINK : https://github.com/hertg/lightdm-neon
-  TYPE : lightdm
+SITE SHOT
+  LINK : https://www.site-shot.com/
+  TYPE : tool
+  NOTE : Capture a website screenshot online.
 
-EMPTTY
-  LINK : https://github.com/tvrzna/emptty
-  TYPE : lightdm
+12FT
+  LINK : https://12ft.io/
+  TYPE : tool
+  NOTE : Remove popups, banners, and ads from any website.
 
-ENKEL
-  LINK : https://github.com/vndre/enkel-greeter
-  TYPE : lightdm
+ARCHIVE PAGE
+  LINK : https://archive.is/
+  TYPE : tool
+  NOTE : Saves a text and a graphical copy of the page that will always be online even if the original page disappears.
 
-ARCH
-  LINK : https://github.com/kenogo/lightdm-webkit2-theme-arch
-  TYPE : lightdm
+AXIOM
+  LINK : https://axiom.ai/
+  TYPE : tool 
+  NOTE : Browser Automation. Quickly, without code.
 
-MINIMAL
-  LINK : https://github.com/robinwyss/minimal-lightdm-webkit-theme
-  TYPE : lightdm
+TINY WOW
+  LINK : https://tinywow.com/
+  TYPE : tool
+  NOTE : AI tools for PDF, image, video, text and files.
 
-EIGHTIES DARK
-  LINK : https://github.com/abcadefgan/lightdm-webkit-eightiesdark
-  TYPE : lightdm
+GPT 4 ALL
+  LINK : https://gpt4all.io/index.html
+  TYPE : tool
+  NOTE : A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 
-GLORIOUS
-  LINK : https://github.com/eromatiya/lightdm-webkit2-theme-glorious
-  TYPE : lightdm
+PERPLEXITY
+  LINK : https://www.perplexity.ai/
+  TYPE : tool
 
-GAB GRADIENT
-  LINK : https://github.com/GabrielTenma/lightdm-gab-gradient
-  TYPE : lightdm
+MERLIN
+  LINK : https://www.getmerlin.in/
+  TYPE : tool
 
-AQUA
-  LINK : https://github.com/paysonwallach/aqua-lightdm-webkit-theme
-  TYPE : lightdm
+WOLFRAM | ALPHA
+  LINK : https://www.wolframalpha.com/
+  TYPE : tool
+  NOTE : Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
 
-BLUE
-  LINK : https://github.com/davidmogar/lightdm-webkit2-dmg_blue
-  TYPE : lightdm
+EIGHTIFY
+  LINK : https://eightify.app/
+  TYPE : tool
+  NOTE : YouTube video summaries AI tool.
 
-MODERN
-  LINK : https://github.com/ffwff/modern
-  TYPE : lightdm
+LOVO
+  LINK : https://lovo.ai/
+  TYPE : tool
+  NOTE : AI Voice Generator: Realistic Text to Speech & Voice Cloning.
 
-DELICIOUS
-  LINK : https://github.com/stuomas/delicious-sddm-theme
-  TYPE : login manager
+A.V. MAPPING
+  LINK : https://avmapping.co/en/
+  TYPE : tool
+  NOTE : Finds your music & sfx with audio editing.
 
-MINIMALIST
-  LINK : https://github.com/flateos/sddm
-  TYPE : login manager
+KLU
+  LINK : https://klu.ai/
+  TYPE : tool
+  NOTE : Collaborate on prompts, evaluate, and optimize LLM-powered Apps.
 
+AJELIX
+  LINK : https://ajelix.com/
+  TYPE : tool
+  NOTE : Excel & Google Sheets Tools that help you write formulas, translate spreadsheets, generate templates, create reports, analyze data with AI, and write VBA scripts.
 
+NUMEROUS
+  LINK : https://numerous.ai/
+  TYPE : tool
+  NOTE : Use AI for writing content, product descriptions, SEO keywords, and more in bulk. Excel & Google Sheets.
 
+ZEG
+  LINK : https://www.zeg.ai/
+  TYPE : tool
+  NOTE : Get stunning photos/ videos of your Product without sending the product to a studio.
 
+STYLIZED
+  LINK : https://www.stylized.ai/
+  TYPE : tool
+  NOTE : Take professional product photos in any lighting, with any backdrop.
 
-ROFI THEMES
+BROWSE AI
+  LINK : https://www.browse.ai/
+  TYPE : tool
+  NOTE : Monitor and Extract data from any website.
+
+THUMBLY
+  LINK : https://thumbly.io/
+  TYPE : tool
+  NOTE : Generate eye-catching thumbnails and titles for YouTube Videos.
+
+WAV TOOL
+  LINK : https://wavtool.com/
+  TYPE : tool
+  NOTE : Create original music with a suite of AI features. In the browser.
+
+DEEP IMAGE
+  LINK : https://deep-image.ai/
+  TYPE : tool
+  NOTE : Upscale images & Create stunning product photos for e-commerce, marketing, and promotional purposes.
+
+NAMELIX
+  LINK : https://namelix.com/
+  TYPE : tool
+  NOTE : Business name generator.
+
+STOKIMG
+  LINK : https://stockimg.ai/
+  TYPE : tool  
+  NOTE : Create images with artificial intelligence.
+
+ELEVEN LABS
+  LINK : https://elevenlabs.io/
+  TYPE : tool
+  NOTE : Natural Text to Speech & AI Voice Generator.
+
+CHANNEL
+  LINK : https://www.usechannel.com/
+  TYPE : tool  
+  NOTE : Connect your database, ask a question, get an answer.
+
+CLIP DROP
+  LINK : https://clipdrop.co/
+  TYPE : tool
+  NOTE : Create stunning visuals in seconds.
+
+STANDARD INSIGHTS
+  LINK : https://standard-insights.com/
+  TYPE : tool
+  NOTE : Standard Insights help your brands access better and faster consumer insights, so you can make informed decisions about your products and brand.
+
+BRANCHER
+  LINK : https://www.brancher.ai/
+  TYPE : tool
+  NOTE : Create AI-powered apps in minutes.
+
+OSINT INDUSTRIES
+  LINK : https://osint.industries/
+  TYPE : tool
+  NOTE : Search email and phone.
+
+CHATSONIC
+  LINK : https://writesonic.com/chat
+  TYPE : tool
+  NOTE : It's like ChatGPT with Google Search Integration, Chat with PDF, AI Image Generation and More.
+
+ICONIFYAI
+  LINK : https://www.iconifyai.com/
+  TYPE : tool
+  NOTE : Create beautiful app icons designed by AI.
+
+ELUNA
+  LINK : https://www.eluna.ai/  
+  TYPE : tool
+  NOTE : Image manipulation tools.
+
+FORMULA BOT
+  LINK : https://formulabot.com/
+  TYPE : tool
+  NOTE : Excel formula generator.
+  
+TYPELIT
+  LINK : https://www.typelit.io/
+  TYPE : tool
+  NOTE : Test your typing online by practicing on your favorite literature.
+
+LEONARDO AI
+  LINK : https://leonardo.ai/
+  TYPE : tool
+  NOTE : Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+
+MY NOISE
+  LINK : https://mynoise.net/
+  TYPE : tool  
+  NOTE : Choose from noise generators, nature sounds and ambient music to create your perfect audio environment.
+
+PDF 24
+  LINK : https://tools.pdf24.org/en/
+  TYPE : tool
+  NOTE : Free and easy-to-use online PDF tools that make you more productive.
+
+POLY CAM
+  LINK : https://poly.cam/tools/ai-texture-generator
+  TYPE : tool
+  NOTE : Create custom 3D textures and materials for free with a simple prompt.
+
+MOKKER
+  LINK : https://mokker.ai/
+  TYPE : tool
+  NOTE : AI background for product photos.
+
+OHA AI
+  LINK : https://oha.ai/
+  TYPE : tool
+
+real-esrgan
+  LINK : https://replicate.com/nightmareai/real-esrgan
+  TYPE : tool
+  NOTE : Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+
+waifu2x
+  LINK : https://waifu2x.udp.jp/
+  TYPE : tool
+  NOTE : Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks. And it supports photo.
+
+SNOOP REPORT
+  LINK : https://snoopreport.com
+  TYPE : tool
+  NOTE : Check anyone's activity on Instagram. See what they like and who they follow.
+
+GNOD
+  LINK : https://www.gnod.com/
+  TYPE : tool  
+  NOTE : Recommends music that you may like .
+
+BIBISCO
+  LINK : https://github.com/andreafeccomandi/bibisco
+  TYPE : tool
+  NOTE : Open-Source application for writing novels.
+
+PLAN YOUR ROOM
+  LINK : http://www.planyourroom.com/
+  TYPE : tool
+
+RADIOOOOO
+  LINK : https://radiooooo.com/
+  TYPE : tool
+  NOTE : Many radio stations of the world.
+
+MEMEX
+  LINK : https://memex.garden/
+  TYPE : tool
+  NOTE : Organise, annotate & discuss websites, PDFs, YouTube videos without leaving your tab. By yourself, with your peers & enhanced by AI.
+
+SNUSBASE
+  LINK : https://snusbase.com/
+  TYPE : tool
+  NOTE : The longest-standing data breach search engine.
+
+GET HUMAN 
+  LINK : https://gethuman.com/
+  TYPE : tool
+  NOTE : Contact customer service of companies instead of bots.
+
+urlwatch
+  LINK : https://github.com/thp/urlwatch
+  TYPE : tool
+  NOTE : Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
+
+FORWARD EMAIL
+  LINK : https://forwardemail.net/es
+  TYPE : tool  
+  NOTE : E-mail service with 100% open-source and transparent monitoring.  Unlimited addresses and domains for $3/mo.
+
+TECHNICAL CITY
+  LINK : https://technical.city/en
+  TYPE : tool
+  NOTE : Unbiased hardware comparisons.
+
+h-node
+  LINK : https://h-node.org/
+  TYPE : tool
+  NOTE : Identify what devices work with a fully free operating system.
+
+TUTA
+  LINK : https://tuta.com/
+  TYPE : tool
+  NOTE : Best email service: end-to-end encrypted and no ads.
+
+COCK.LI
+  LINK : https://cock.li/
+  TYPE : tool
+  NOTE : yeah it's mail with cocks.
+  
+  
+  
+  
+  
+  
+  
+  
+  ROFI THEMES
   LINK : https://github.com/adi1090x/rofi
   TYPE : rice
 
@@ -490,6 +723,11 @@ E-READING CLUB
 
 
 
+
+
+
+
+
 SMART EDGE
   LINK : https://github.com/abh80/smart-edge
   TYPE : software
@@ -586,319 +824,115 @@ OPEN-SOURCE iOS APPS
   NOTE : 📱 Collaborative List of Open-Source iOS Apps.
   TAGS : app
 
+THE MEGEN
+  LINK : https://github.com/nm0i/slim-themegen
+  TYPE : software
+  TAGS : login manager, lightdm
 
+SYNTHGREETER
+  LINK : https://github.com/Landryl/synthgreeter
+  TYPE : software
+  TAGS : login manager, lightdm
 
+MAHAKALI
+  LINK : https://github.com/Sanatana-Linux/mahakali-webkit2-theme
+  TYPE : software
+  TAGS : login manager, lightdm
 
+TINY GREETER
+  LINK : https://www.reddit.com/r/unixporn/comments/dy66ue/softwaretinygreeter_tiny_material/
+  TYPE : software
+  TAGS : login manager, lightdm
 
-FUTURE TOOLS
-  LINK : https://www.futuretools.io/
-  TYPE : tool
-  NOTE : Index of AI programs.
+VAPORWAVE
+  LINK : https://github.com/xbelanch/Lightdm-Webkit2-Vaporwave
+  TYPE : software
 
-FUTURE PEDIA
-  LINK : https://www.futurepedia.io/
-  TYPE : tool
-  NOTE : Index of AI programs.
+MINIMAL AND LIGHT
+  LINK : https://www.reddit.com/r/unixporn/comments/c2sryu/software_minimal_and_light/
+  TYPE : software
+  TAGS : login manager, lightdm
 
-CHATPAD AI
-  LINK : https://chatpad.ai/
-  TYPE : tool
-  NOTE : Open-Source ChatGPT user-interface.
+VISCERAL
+  LINK : https://github.com/tony-attia/visceral
+  TYPE : software
+  TAGS : login manager, lightdm
 
-FOREFRONT
-  LINK : https://www.forefront.ai/
-  TYPE : tool
-  NOTE : Choose from powerful models, chat with files, browse the internet, bring your team, customize assistants, share chats, and much more.
-
-HUGGING FACE
-  LINK : https://huggingface.co/
-  TYPE : tool
-
-GOOGLE BARD
-  LINK :
-  TYPE : tool
-
-CONSENSUS
-  LINK : https://consensus.app/
-  TYPE : tool
-  NOTE : Search engine that uses AI to find insights in research papers.
-  TAGS : downloads
-
-SITE SHOT
-  LINK : https://www.site-shot.com/
-  TYPE : tool
-  NOTE : Capture a website screenshot online.
-
-12FT
-  LINK : https://12ft.io/
-  TYPE : tool
-  NOTE : Remove popups, banners, and ads from any website.
-
-ARCHIVE PAGE
-  LINK : https://archive.is/
-  TYPE : tool
-  NOTE : Saves a text and a graphical copy of the page that will always be online even if the original page disappears.
-
-AXIOM
-  LINK : https://axiom.ai/
-  TYPE : tool 
-  NOTE : Browser Automation. Quickly, without code.
-
-TINY WOW
-  LINK : https://tinywow.com/
-  TYPE : tool
-  NOTE : AI tools for PDF, image, video, text and files.
-
-GPT 4 ALL
-  LINK : https://gpt4all.io/index.html
-  TYPE : tool
-  NOTE : A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
-
-PERPLEXITY
-  LINK : https://www.perplexity.ai/
-  TYPE : tool
-
-MERLIN
-  LINK : https://www.getmerlin.in/
-  TYPE : tool
-
-WOLFRAM | ALPHA
-  LINK : https://www.wolframalpha.com/
-  TYPE : tool
-  NOTE : Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology.
-
-EIGHTIFY
-  LINK : https://eightify.app/
-  TYPE : tool
-  NOTE : YouTube video summaries AI tool.
-
-LOVO
-  LINK : https://lovo.ai/
-  TYPE : tool
-  NOTE : AI Voice Generator: Realistic Text to Speech & Voice Cloning.
-
-A.V. MAPPING
-  LINK : https://avmapping.co/en/
-  TYPE : tool
-  NOTE : Finds your music & sfx with audio editing.
-
-KLU
-  LINK : https://klu.ai/
-  TYPE : tool
-  NOTE : Collaborate on prompts, evaluate, and optimize LLM-powered Apps.
-
-AJELIX
-  LINK : https://ajelix.com/
-  TYPE : tool
-  NOTE : Excel & Google Sheets Tools that help you write formulas, translate spreadsheets, generate templates, create reports, analyze data with AI, and write VBA scripts.
-
-NUMEROUS
-  LINK : https://numerous.ai/
-  TYPE : tool
-  NOTE : Use AI for writing content, product descriptions, SEO keywords, and more in bulk. Excel & Google Sheets.
-
-ZEG
-  LINK : https://www.zeg.ai/
-  TYPE : tool
-  NOTE : Get stunning photos/ videos of your Product without sending the product to a studio.
-
-STYLIZED
-  LINK : https://www.stylized.ai/
-  TYPE : tool
-  NOTE : Take professional product photos in any lighting, with any backdrop.
-
-BROWSE AI
-  LINK : https://www.browse.ai/
-  TYPE : tool
-  NOTE : Monitor and Extract data from any website.
-
-THUMBLY
-  LINK : https://thumbly.io/
-  TYPE : tool
-  NOTE : Generate eye-catching thumbnails and titles for YouTube Videos.
-
-WAV TOOL
-  LINK : https://wavtool.com/
-  TYPE : tool
-  NOTE : Create original music with a suite of AI features. In the browser.
-
-DEEP IMAGE
-  LINK : https://deep-image.ai/
-  TYPE : tool
-  NOTE : Upscale images & Create stunning product photos for e-commerce, marketing, and promotional purposes.
-
-NAMELIX
-  LINK : https://namelix.com/
-  TYPE : tool
-  NOTE : Business name generator.
-
-STOKIMG
-  LINK : https://stockimg.ai/
-  TYPE : tool  
-  NOTE : Create images with artificial intelligence.
-
-ELEVEN LABS
-  LINK : https://elevenlabs.io/
-  TYPE : tool
-  NOTE : Natural Text to Speech & AI Voice Generator.
-
-CHANNEL
-  LINK : https://www.usechannel.com/
-  TYPE : tool  
-  NOTE : Connect your database, ask a question, get an answer.
-
-CLIP DROP
-  LINK : https://clipdrop.co/
-  TYPE : tool
-  NOTE : Create stunning visuals in seconds.
-
-STANDARD INSIGHTS
-  LINK : https://standard-insights.com/
-  TYPE : tool
-  NOTE : Standard Insights help your brands access better and faster consumer insights, so you can make informed decisions about your products and brand.
-
-BRANCHER
-  LINK : https://www.brancher.ai/
-  TYPE : tool
-  NOTE : Create AI-powered apps in minutes.
-
-OSINT INDUSTRIES
-  LINK : https://osint.industries/
-  TYPE : tool
-  NOTE : Search email and phone.
-
-CHATSONIC
-  LINK : https://writesonic.com/chat
-  TYPE : tool
-  NOTE : It's like ChatGPT with Google Search Integration, Chat with PDF, AI Image Generation and More.
-
-ICONIFYAI
-  LINK : https://www.iconifyai.com/
-  TYPE : tool
-  NOTE : Create beautiful app icons designed by AI.
-
-ELUNA
-  LINK : https://www.eluna.ai/  
-  TYPE : tool
-  NOTE : Image manipulation tools.
-
-FORMULA BOT
-  LINK : https://formulabot.com/
-  TYPE : tool
-  NOTE : Excel formula generator.
+NEON
+  LINK : https://github.com/hertg/software-neon
+  TYPE : software
+  TAGS : login manager, lightdm
   
-TYPELIT
-  LINK : https://www.typelit.io/
-  TYPE : tool
-  NOTE : Test your typing online by practicing on your favorite literature.
+EMPTTY
+  LINK : https://github.com/tvrzna/emptty
+  TYPE : software
+  TAGS : login manager, lightdm
 
-LEONARDO AI
-  LINK : https://leonardo.ai/
-  TYPE : tool
-  NOTE : Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+ENKEL
+  LINK : https://github.com/vndre/enkel-greeter
+  TYPE : software
+  TAGS : login manager, lightdm
 
-MY NOISE
-  LINK : https://mynoise.net/
-  TYPE : tool  
-  NOTE : Choose from noise generators, nature sounds and ambient music to create your perfect audio environment.
+ARCH
+  LINK : https://github.com/kenogo/software-webkit2-theme-arch
+  TYPE : software
+  TAGS : login manager, lightdm
 
-PDF 24
-  LINK : https://tools.pdf24.org/en/
-  TYPE : tool
-  NOTE : Free and easy-to-use online PDF tools that make you more productive.
+MINIMAL
+  LINK : https://github.com/robinwyss/minimal-software-webkit-theme
+  TYPE : software
+  TAGS : login manager, lightdm
 
-POLY CAM
-  LINK : https://poly.cam/tools/ai-texture-generator
-  TYPE : tool
-  NOTE : Create custom 3D textures and materials for free with a simple prompt.
+EIGHTIES DARK
+  LINK : https://github.com/abcadefgan/software-webkit-eightiesdark
+  TYPE : software
+  TAGS : login manager, lightdm
 
-MOKKER
-  LINK : https://mokker.ai/
-  TYPE : tool
-  NOTE : AI background for product photos.
+GLORIOUS
+  LINK : https://github.com/eromatiya/software-webkit2-theme-glorious
+  TYPE : software
+  TAGS : login manager, lightdm
 
-OHA AI
-  LINK : https://oha.ai/
-  TYPE : tool
+GAB GRADIENT
+  LINK : https://github.com/GabrielTenma/software-gab-gradient
+  TYPE : software
+  TAGS : login manager, lightdm
 
-real-esrgan
-  LINK : https://replicate.com/nightmareai/real-esrgan
-  TYPE : tool
-  NOTE : Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+AQUA
+  LINK : https://github.com/paysonwallach/aqua-software-webkit-theme
+  TYPE : software
+  TAGS : login manager, lightdm
 
-waifu2x
-  LINK : https://waifu2x.udp.jp/
-  TYPE : tool
-  NOTE : Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks. And it supports photo.
+BLUE
+  LINK : https://github.com/davidmogar/software-webkit2-dmg_blue
+  TYPE : software
+  TAGS : login manager, lightdm
 
-SNOOP REPORT
-  LINK : https://snoopreport.com
-  TYPE : tool
-  NOTE : Check anyone's activity on Instagram. See what they like and who they follow.
+MODERN
+  LINK : https://github.com/ffwff/modern
+  TYPE : software
+  TAGS : login manager, lightdm
 
-GNOD
-  LINK : https://www.gnod.com/
-  TYPE : tool  
-  NOTE : Recommends music that you may like .
+DELICIOUS
+  LINK : https://github.com/stuomas/delicious-sddm-theme
+  TYPE : software
+  TAGS : login manager, sddm
 
-BIBISCO
-  LINK : https://github.com/andreafeccomandi/bibisco
-  TYPE : tool
-  NOTE : Open-Source application for writing novels.
+MINIMALIST
+  LINK : https://github.com/flateos/sddm
+  TYPE : software
+  TAGS : login manager, sddm
 
-PLAN YOUR ROOM
-  LINK : http://www.planyourroom.com/
-  TYPE : tool
 
-RADIOOOOO
-  LINK : https://radiooooo.com/
-  TYPE : tool
-  NOTE : Many radio stations of the world.
 
-MEMEX
-  LINK : https://memex.garden/
-  TYPE : tool
-  NOTE : Organise, annotate & discuss websites, PDFs, YouTube videos without leaving your tab. By yourself, with your peers & enhanced by AI.
 
-SNUSBASE
-  LINK : https://snusbase.com/
-  TYPE : tool
-  NOTE : The longest-standing data breach search engine.
 
-GET HUMAN 
-  LINK : https://gethuman.com/
-  TYPE : tool
-  NOTE : Contact customer service of companies instead of bots.
 
-urlwatch
-  LINK : https://github.com/thp/urlwatch
-  TYPE : tool
-  NOTE : Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 
-FORWARD EMAIL
-  LINK : https://forwardemail.net/es
-  TYPE : tool  
-  NOTE : E-mail service with 100% open-source and transparent monitoring.  Unlimited addresses and domains for $3/mo.
 
-TECHNICAL CITY
-  LINK : https://technical.city/en
-  TYPE : tool
-  NOTE : Unbiased hardware comparisons.
 
-h-node
-  LINK : https://h-node.org/
-  TYPE : tool
-  NOTE : Identify what devices work with a fully free operating system.
 
-TUTA
-  LINK : https://tuta.com/
-  TYPE : tool
-  NOTE : Best email service: end-to-end encrypted and no ads.
 
-COCK.LI
-  LINK : https://cock.li/
-  TYPE : tool
-  NOTE : yeah it's mail with cocks.
 
 
 
