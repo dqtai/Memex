@@ -14,7 +14,7 @@ const SETTINGS =
 	SHOWAUTH: true,
 	SHOWTYPE: true,
 	SHOWLINK: true,
-	SHOWLOWER: false,
+	SHOWLOWER: true,
 	SHOWTAGS: true,
 	SHOWPROJ: true,
 	SHOWNOTE: true,
