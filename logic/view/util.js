@@ -19,7 +19,7 @@ function Util()
         case 'list': icon = 'fas fa-file-alt'; break;
         case 'downloads': icon = 'far fa-book-open'; break;
         case 'games': icon = 'fas fa-gamepad'; break;
-        case 'service': icon = 'fas fa-server'; break;
+        case 'homeserver': icon = 'fas fa-server'; break;
         case 'guides': icon = 'fas fa-chalkboard-teacher'; break;
         case 'quote': icon = 'fas fa-comment'; break;
         case 'tool': icon = 'far fa-desktop'; break;
