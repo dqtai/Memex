@@ -15,6 +15,7 @@ function Util()
     {
         case 'news': icon = 'far fa-newspaper'; break;
         case 'podcast': icon = 'fas fa-podcast'; break;
+        case 'downloads': icon = 'fas fa-folder-open'; break;
         case 'tool': icon = 'fas fa-tv'; break;
         case 'uiux': icon = 'fas fa-check'; break;
         case 'downloads': icon = 'far fa-book-open'; break;
