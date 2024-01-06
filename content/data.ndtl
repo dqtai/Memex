@@ -308,6 +308,14 @@ COCK.LI
   LINK : https://cock.li/
   TYPE : tool
   NOTE : yeah it's mail with cocks.
+
+DEBIAN REPOS
+  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
+  TYPE : tool
+
+MAKE LINUX LIVE ISO
+  LINK : https://github.com/emmett1/linuxliveiso
+  TYPE : tool
   
   
   
@@ -399,24 +407,78 @@ LOCAL MONERO
   LINK : https://f-droid.org/en/packages/co.localmonero.app/
   TYPE : software
   NOTE : Buy or sell Monero without ID verification. Cash or online. Safe, fast, easy.
-  TAGS : app
+  TAGS : app, android
 
 STACK WALLET
   LINK : https://stackwallet.com/
   TYPE : software
   NOTE : Open-Source, non-custodial, privacy-preserving cryptocurrency wallet.
-  TAGS : app
+  TAGS : app, android
 
 OPEN-SOURCE iOS APPS
   LINK : https://github.com/dkhamsing/open-source-ios-apps
   TYPE : software
+  TAGS : app, ios
   NOTE : 📱 Collaborative List of Open-Source iOS Apps.
-  TAGS : app
 
+EPUB READER
+  LINK : https://github.com/wustho/epr
+  TYPE : software
+  TAGS : terminal
+  NOTE : CLI Epub Reader.
+
+NVCHAD
+  LINK : https://github.com/NvChad/NvChad
+  TYPE : software
+  TAGS : terminal
+  NOTE : Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
+REDSHIFT
+  LINK : https://github.com/jonls/redshift
+  TYPE : software
+  TAGS : terminal
+  NOTE : Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+
+STARFETCH
+  LINK : https://github.com/Haruno19/starfetch
+  TYPE : software
+  TAGS : terminal
+  NOTE : Command line tool that displays constellations.
+
+LOBSTER TV & MOVIES
+  LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
+  TYPE : software
+  TAGS : terminal
+  NOTE : Minimalist cli script for watching tv shows and movies.
+
+3D CUBE WITH OPENGL
+  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
+  LINK : https://github.com/sabrehagen/dotfiles-picom/blob/master/.config/picom/shaders/cube.glsl
+  TYPE : software
+  TAGS : terminal
+  NOTE : 3D rotating cube made with openGL.
+
+I3 VOLUME BRIGHTNESS INDICCATOR
+  LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
+  TYPE : software
+  TAGS : rice, dunst
+  NOTE : Windows-Style Media & Brightness Notifications using Dunst
+
+PICOM FORK
+  LINK : https://github.com/jonaburg/picom
+  TYPE : software
+  TAGS : rice
+
+PICOM CONF
+  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
+  TYPE : software
+  TAGS : rice
+  
 HOMEPAGE
   LINK : https://github.com/gethomepage/homepage
   TYPE : software
   NOTE : A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
+  TAGS : homeserver
 
 THE MEGEN
   LINK : https://github.com/nm0i/slim-themegen
@@ -441,6 +503,7 @@ TINY GREETER
 VAPORWAVE
   LINK : https://github.com/xbelanch/Lightdm-Webkit2-Vaporwave
   TYPE : software
+  TAGS : login manager, lightdm
 
 MINIMAL AND LIGHT
   LINK : https://www.reddit.com/r/unixporn/comments/c2sryu/software_minimal_and_light/
@@ -453,7 +516,7 @@ VISCERAL
   TAGS : login manager, lightdm
 
 NEON
-  LINK : https://github.com/hertg/software-neon
+  LINK : https://github.com/hertg/lightdm-neon
   TYPE : software
   TAGS : login manager, lightdm
   
@@ -520,155 +583,112 @@ MINIMALIST
 ROFI THEMES
   LINK : https://github.com/adi1090x/rofi
   TYPE : software
-  TAGS : rice
-
-STARFETCH
-  LINK : https://github.com/Haruno19/starfetch
-  TYPE : software
-
-SHELCASTER PODCASTS
-  LINK : https://github.com/jeff-hughes/shellcaster
-  TYPE : software
-
-I3 VOLUME BRIGHTNESS INDICCATOR
-  LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
-  TYPE : software
-
-LOBSTER TV & MOVIES
-  LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
-  TYPE : software
-
-LIST OF XKEYS
-  LINK : https://github.com/qtile/qtile/blob/master/libqtile/backend/x11/xkeysyms.py
-  TYPE : software
-
-EPUB READER
-  LINK : https://github.com/wustho/epr
-  TYPE : software
-
-THERE IS NO HORIZON
-  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
-  TYPE : software
-
-MAKE LINUX LIVE ISO
-  LINK : https://github.com/emmett1/linuxliveiso
-  TYPE : software
-
-PICOM CONF
-  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
-  TYPE : software
-
-PICOM FORK
-  LINK : https://github.com/jonaburg/picom
-  TYPE : software
-
-DEBIAN REPOS
-  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
-  TYPE : software
-
-3D CUBE WITH OPENGL
-  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
-  TYPE : software
-
-KITTY CONFIGURATION
-  LINK : https://github.com/maximbaz/dotfiles/blob/master/.config/kitty/kitty.conf
-  TYPE : software
-
-REDSHIFT
-  LINK : http://jonls.dk/redshift/
-  TYPE : software
+  TAGS : rice, rofi
 
 GNOMINTOSH
   LINK : https://github.com/jothi-prasath/gnomintosh
   TYPE : software
-
-NVCHAD
-  LINK : https://github.com/NvChad/NvChad
-  TYPE : software
+  TAGS : rice, gnome
 
 QTILE AUTORICING
   LINK : https://www.reddit.com/r/unixporn/comments/13zz2pm/qtile_auto_ricing_animations_pywal_rofi_themes/
   TYPE : software
+  TAGS : rice
 
 VOID MONOCHROME
   LINK : https://www.reddit.com/r/unixporn/comments/11k9wad/dwm_void_linux_and_monochrome_all_day/
   TYPE : software
+  TAGS : rice
+
+THERE IS NO HORIZON
+  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
+  TYPE : software
+  TAGS : rice
 
 BSPDOTS
   LINK : https://github.com/juminai/bspdots
   TYPE : software
+  TAGS : rice
 
 I3 BRUTALISM
   LINK : https://www.reddit.com/r/unixporn/comments/ftmpvj/i3gaps_inspired_by_brutalism/
   TYPE : software
+  TAGS : rice
 
 QTILE BLUE MATERIA
   LINK : https://www.reddit.com/r/unixporn/comments/vjwqwq/qtileblue_materia/
   TYPE : software
+  TAGS : rice
 
 QTILE HUH
   LINK : https://www.reddit.com/r/unixporn/comments/y5s7fi/qtile_huh/
   TYPE : software
+  TAGS : rice
 
 QTILE PLASMA
   LINK : https://www.reddit.com/r/unixporn/comments/xre2vt/qtile_plasma_the_cursed_abomination_of_my/
   TYPE : software
+  TAGS : rice
 
 QTILE CATPPUCCIN
   LINK : https://www.reddit.com/r/unixporn/comments/112r709/qtile_simple_but_practical_catppuccin_software/
   TYPE : software
+  TAGS : rice
 
 QTILE NORD
   LINK : https://www.reddit.com/r/unixporn/comments/13vw74w/qtile_nord_themed_software/
   TYPE : software
+  TAGS : rice
 
 QTILE ARCH RICING SCRIPTS
   LINK : https://github.com/gibranlp/QARSlp
   TYPE : software
+  TAGS : rice
 
 AVERAGE RICER
   LINK : https://www.reddit.com/r/unixporn/comments/11ms1xj/i3_average_unixporn_softwarer/
   TYPE : software
+  TAGS : rice
 
 SWAY SERENITY
   LINK : https://www.reddit.com/r/unixporn/comments/13771ba/sway_i_think_ill_call_it_serenity/
   TYPE : software
+  TAGS : rice
 
 GNOME RIGHT
   LINK : https://www.reddit.com/r/unixporn/comments/13j0h30/gnome_my_first_software_am_i_doing_it_right/
   TYPE : software
+  TAGS : rice
 
 BSPWM EWW
   LINK : https://www.reddit.com/r/unixporn/comments/13jlj81/bspwm_eww/
   TYPE : software
+  TAGS : rice
 
 BSPWM WORKHORSE
   LINK : https://www.reddit.com/r/unixporn/comments/13m2rwl/bspwm_obsessively_optimized_workhorse_setup_for/
   TYPE : software
+  TAGS : rice
 
 I3 WIP
   LINK : https://www.reddit.com/r/unixporn/comments/13thfne/i3_still_wip_just_cant_wait_to_make_a_first_post/
   TYPE : software
+  TAGS : rice
 
 SIMPLE YET EFFECTIVE
   LINK : https://github.com/akhoanv/simple_yet_effective/
-  TPYE : software
+  TYPE : software
+  TAGS : rice
   
   ROFI THEMES
   LINK : https://github.com/adi1090x/rofi
   TYPE : software
-
-STARFETCH
-  LINK : https://github.com/Haruno19/starfetch
-  TYPE : software
-
-SHELCASTER PODCASTS
-  LINK : https://github.com/jeff-hughes/shellcaster
-  TYPE : software
+  TAGS : rice
 
 I3 VOLUME BRIGHTNESS INDICCATOR
   LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
   TYPE : software
+  TAGS : rice
 
 LOBSTER TV & MOVIES
   LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
@@ -682,113 +702,95 @@ EPUB READER
   LINK : https://github.com/wustho/epr
   TYPE : software
 
-THERE IS NO HORIZON
-  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
-  TYPE : software
-
-MAKE LINUX LIVE ISO
-  LINK : https://github.com/emmett1/linuxliveiso
-  TYPE : software
-
-PICOM CONF
-  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
-  TYPE : software
-
-PICOM FORK
-  LINK : https://github.com/jonaburg/picom
-  TYPE : software
-
-DEBIAN REPOS
-  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
-  TYPE : software
-
-3D CUBE WITH OPENGL
-  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
-  TYPE : software
-
-KITTY CONFIGURATION
-  LINK : https://github.com/maximbaz/dotfiles/blob/master/.config/kitty/kitty.conf
-  TYPE : software
-
-REDSHIFT
-  LINK : http://jonls.dk/redshift/
-  TYPE : software
-
 GNOMINTOSH
   LINK : https://github.com/jothi-prasath/gnomintosh
   TYPE : software
-
-NVCHAD
-  LINK : https://github.com/NvChad/NvChad
-  TYPE : software
+  TAGS : rice
 
 QTILE AUTORICING
   LINK : https://www.reddit.com/r/unixporn/comments/13zz2pm/qtile_auto_ricing_animations_pywal_rofi_themes/
   TYPE : software
+  TAGS : rice
 
 VOID MONOCHROME
   LINK : https://www.reddit.com/r/unixporn/comments/11k9wad/dwm_void_linux_and_monochrome_all_day/
   TYPE : software
+  TAGS : rice
 
 BSPDOTS
   LINK : https://github.com/juminai/bspdots
   TYPE : software
+  TAGS : rice
 
 I3 BRUTALISM
   LINK : https://www.reddit.com/r/unixporn/comments/ftmpvj/i3gaps_inspired_by_brutalism/
   TYPE : software
+  TAGS : rice
 
 QTILE BLUE MATERIA
   LINK : https://www.reddit.com/r/unixporn/comments/vjwqwq/qtileblue_materia/
   TYPE : software
+  TAGS : rice
 
 QTILE HUH
   LINK : https://www.reddit.com/r/unixporn/comments/y5s7fi/qtile_huh/
   TYPE : software
+  TAGS : rice
 
 QTILE PLASMA
   LINK : https://www.reddit.com/r/unixporn/comments/xre2vt/qtile_plasma_the_cursed_abomination_of_my/
   TYPE : software
+  TAGS : rice
 
 QTILE CATPPUCCIN
   LINK : https://www.reddit.com/r/unixporn/comments/112r709/qtile_simple_but_practical_catppuccin_software/
   TYPE : software
+  TAGS : rice
 
 QTILE NORD
   LINK : https://www.reddit.com/r/unixporn/comments/13vw74w/qtile_nord_themed_software/
   TYPE : software
+  TAGS : rice
 
 QTILE ARCH RICING SCRIPTS
   LINK : https://github.com/gibranlp/QARSlp
   TYPE : software
+  TAGS : rice
 
 AVERAGE RICER
   LINK : https://www.reddit.com/r/unixporn/comments/11ms1xj/i3_average_unixporn_softwarer/
   TYPE : software
+  TAGS : rice
 
 SWAY SERENITY
   LINK : https://www.reddit.com/r/unixporn/comments/13771ba/sway_i_think_ill_call_it_serenity/
   TYPE : software
+  TAGS : rice
 
 GNOME RIGHT
   LINK : https://www.reddit.com/r/unixporn/comments/13j0h30/gnome_my_first_software_am_i_doing_it_right/
   TYPE : software
+  TAGS : rice
 
 BSPWM EWW
   LINK : https://www.reddit.com/r/unixporn/comments/13jlj81/bspwm_eww/
   TYPE : software
+  TAGS : rice
 
 BSPWM WORKHORSE
   LINK : https://www.reddit.com/r/unixporn/comments/13m2rwl/bspwm_obsessively_optimized_workhorse_setup_for/
   TYPE : software
-
+  TAGS : rice
+  
 I3 WIP
   LINK : https://www.reddit.com/r/unixporn/comments/13thfne/i3_still_wip_just_cant_wait_to_make_a_first_post/
   TYPE : software
+  TAGS : rice
 
 SIMPLE YET EFFECTIVE
   LINK : https://github.com/akhoanv/simple_yet_effective/
   TPYE : software
+  TAGS : rice
 
 
 
@@ -1083,6 +1085,10 @@ JAKEG BLOGS
   LINK : https://jakegines.in/
   TYPE : guides
   NOTE : Personal blog about technology and math.
+
+LIST OF XKEYS
+  LINK : https://github.com/qtile/qtile/blob/master/libqtile/backend/x11/xkeysyms.py
+  TYPE : guides
 
 
 
