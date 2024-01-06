@@ -17,7 +17,7 @@ function Util()
         case 'podcast': icon = 'fas fa-podcast'; break;
         case 'video': icon = 'fas fa-tv'; break;
         case 'list': icon = 'fas fa-file-alt'; break;
-        case 'book': icon = 'fas fa-book-open'; break;
+        case 'downloads': icon = 'far fa-book-open'; break;
         case 'games': icon = 'fas fa-gamepad'; break;
         case 'service': icon = 'fas fa-server'; break;
         case 'guides': icon = 'fas fa-chalkboard-teacher'; break;
