@@ -67,6 +67,7 @@ function Nav()
     }
     navContent += `</div>`;
 
+    /*
     // TAGS
     navContent += `<div class="nav-itemgroup">`;
     if (value.tags.length > 0)
@@ -84,5 +85,6 @@ function Nav()
     }
     navContent += `</div>`;
     this.container.innerHTML = navContent;
+    */
   }
 }
