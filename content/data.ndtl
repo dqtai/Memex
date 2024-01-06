@@ -606,10 +606,80 @@ FLATICON
   TYPE : uiux
   NOTE : 'vector icons & stickers'
 
-HOMEPAGE
-  LINK : https://github.com/gethomepage/homepage
-  NOTE : A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
-  TAGS : homeserver
+UNSPLASH
+  LINK : https://unsplash.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Freely usable images.
+
+TYMPANUS CODROPS
+  LINK : https://tympanus.net/codrops/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : CSS and HTML examples.
+
+ENVATO
+  LINK : https://www.envato.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Marketplace for scripts, logos and templates.
+
+LAMBDA TEST
+  LINK : https://www.lambdatest.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Mobile Apps and Cross Browser Testing Cloud.
+
+COMPARIUM
+  LINK : https://comparium.app/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Check webpage compatibility with different browsers and platforms.
+
+DAREBOOST
+  LINK : https://www.dareboost.com/en/compare
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Measure and compare Speed and Quality of two web pages.
+
+IWANTMYNAME
+  LINK : https://iwantmyname.com/?domain
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Search available domain names.
+
+PRESTA SHOP
+  LINK : https://github.com/PrestaShop/PrestaShop
+  TYPE : uiux
+  TAGS : web design
+  NOTE : universal Open-Source software platform to build your e-commerce solution.
+  
+CSS3 PATTERNS GALLERY
+  LINK : https://projects.verou.me/css3patterns/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Patterns and backgrounds made with pure CSS.
+
+CSS MATIC
+  LINK : https://www.cssmatic.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : CSS tools for web designers: Gradients, Border Radius, Noise textures & Box Shadows.
+
+COLOR-HEX
+  LINK : https://www.color-hex.com/color-palettes/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Color palettes, color schemes.
+
+AWWWARDS
+  LINK : https://www.awwwards.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Collection of impressive web designs.
+
+
+
 
 
 
@@ -824,6 +894,11 @@ OPEN-SOURCE iOS APPS
   NOTE : 📱 Collaborative List of Open-Source iOS Apps.
   TAGS : app
 
+HOMEPAGE
+  LINK : https://github.com/gethomepage/homepage
+  TYPE : software
+  NOTE : A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.
+
 THE MEGEN
   LINK : https://github.com/nm0i/slim-themegen
   TYPE : software
@@ -940,65 +1015,7 @@ MINIMALIST
 
 
 
-UNSPLASH
-  LINK : https://unsplash.com/
-  TYPE : web design
-  NOTE : Freely usable images.
 
-TYMPANUS CODROPS
-  LINK : https://tympanus.net/codrops/
-  TYPE : web design
-  NOTE : CSS and HTML examples.
-
-ENVATO
-  LINK : https://www.envato.com/
-  TYPE : web design
-  NOTE : Marketplace for scripts, logos and templates.
-
-LAMBDA TEST
-  LINK : https://www.lambdatest.com/
-  TYPE : web design
-  NOTE : Mobile Apps and Cross Browser Testing Cloud.
-
-COMPARIUM
-  LINK : https://comparium.app/
-  TYPE : web design
-  NOTE : Check webpage compatibility with different browsers and platforms.
-
-DAREBOOST
-  LINK : https://www.dareboost.com/en/compare
-  TYPE : web design
-  NOTE : Measure and compare Speed and Quality of two web pages.
-
-IWANTMYNAME
-  LINK : https://iwantmyname.com/?domain
-  TYPE : web design
-  NOTE : Search available domain names.
-
-PRESTA SHOP
-  LINK : https://github.com/PrestaShop/PrestaShop
-  TYPE : web design
-  NOTE : universal Open-Source software platform to build your e-commerce solution.
-  
-CSS3 PATTERNS GALLERY
-  LINK : https://projects.verou.me/css3patterns/
-  TYPE : web design
-  NOTE : Patterns and backgrounds made with pure CSS.
-
-CSS MATIC
-  LINK : https://www.cssmatic.com/
-  TYPE : web design
-  NOTE : CSS tools for web designers: Gradients, Border Radius, Noise textures & Box Shadows.
-
-COLOR-HEX
-  LINK : https://www.color-hex.com/color-palettes/
-  TYPE : web design
-  NOTE : Color palettes, color schemes.
-
-AWWWARDS
-  LINK : https://www.awwwards.com/
-  TYPE : web design
-  NOTE : Collection of impressive web designs.
 
 
 
