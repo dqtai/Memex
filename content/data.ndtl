@@ -316,488 +316,7 @@ COCK.LI
   
   
   
-  ROFI THEMES
-  LINK : https://github.com/adi1090x/rofi
-  TYPE : rice
-
-STARFETCH
-  LINK : https://github.com/Haruno19/starfetch
-  TYPE : rice
-
-SHELCASTER PODCASTS
-  LINK : https://github.com/jeff-hughes/shellcaster
-  TYPE : rice
-
-I3 VOLUME BRIGHTNESS INDICCATOR
-  LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
-  TYPE : rice
-
-LOBSTER TV & MOVIES
-  LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
-  TYPE : rice
-
-LIST OF XKEYS
-  LINK : https://github.com/qtile/qtile/blob/master/libqtile/backend/x11/xkeysyms.py
-  TYPE : rice
-
-EPUB READER
-  LINK : https://github.com/wustho/epr
-  TYPE : rice
-
-THERE IS NO HORIZON
-  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
-  TYPE : rice
-
-MAKE LINUX LIVE ISO
-  LINK : https://github.com/emmett1/linuxliveiso
-  TYPE : rice
-
-PICOM CONF
-  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
-  TYPE : rice
-
-PICOM FORK
-  LINK : https://github.com/jonaburg/picom
-  TYPE : rice
-
-DEBIAN REPOS
-  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
-  TYPE : rice
-
-3D CUBE WITH OPENGL
-  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
-  TYPE : rice
-
-KITTY CONFIGURATION
-  LINK : https://github.com/maximbaz/dotfiles/blob/master/.config/kitty/kitty.conf
-  TYPE : rice
-
-REDSHIFT
-  LINK : http://jonls.dk/redshift/
-  TYPE : rice
-
-GNOMINTOSH
-  LINK : https://github.com/jothi-prasath/gnomintosh
-  TYPE : rice
-
-NVCHAD
-  LINK : https://github.com/NvChad/NvChad
-  TYPE : rice
-
-QTILE AUTORICING
-  LINK : https://www.reddit.com/r/unixporn/comments/13zz2pm/qtile_auto_ricing_animations_pywal_rofi_themes/
-  TYPE : rice
-
-VOID MONOCHROME
-  LINK : https://www.reddit.com/r/unixporn/comments/11k9wad/dwm_void_linux_and_monochrome_all_day/
-  TYPE : rice
-
-BSPDOTS
-  LINK : https://github.com/juminai/bspdots
-  TYPE : rice
-
-I3 BRUTALISM
-  LINK : https://www.reddit.com/r/unixporn/comments/ftmpvj/i3gaps_inspired_by_brutalism/
-  TYPE : rice
-
-QTILE BLUE MATERIA
-  LINK : https://www.reddit.com/r/unixporn/comments/vjwqwq/qtileblue_materia/
-  TYPE : rice
-
-QTILE HUH
-  LINK : https://www.reddit.com/r/unixporn/comments/y5s7fi/qtile_huh/
-  TYPE : rice
-
-QTILE PLASMA
-  LINK : https://www.reddit.com/r/unixporn/comments/xre2vt/qtile_plasma_the_cursed_abomination_of_my/
-  TYPE : rice
-
-QTILE CATPPUCCIN
-  LINK : https://www.reddit.com/r/unixporn/comments/112r709/qtile_simple_but_practical_catppuccin_rice/
-  TYPE : rice
-
-QTILE NORD
-  LINK : https://www.reddit.com/r/unixporn/comments/13vw74w/qtile_nord_themed_rice/
-  TYPE : rice
-
-QTILE ARCH RICING SCRIPTS
-  LINK : https://github.com/gibranlp/QARSlp
-  TYPE : rice
-
-AVERAGE RICER
-  LINK : https://www.reddit.com/r/unixporn/comments/11ms1xj/i3_average_unixporn_ricer/
-  TYPE : rice
-
-SWAY SERENITY
-  LINK : https://www.reddit.com/r/unixporn/comments/13771ba/sway_i_think_ill_call_it_serenity/
-  TYPE : rice
-
-GNOME RIGHT
-  LINK : https://www.reddit.com/r/unixporn/comments/13j0h30/gnome_my_first_rice_am_i_doing_it_right/
-  TYPE : rice
-
-BSPWM EWW
-  LINK : https://www.reddit.com/r/unixporn/comments/13jlj81/bspwm_eww/
-  TYPE : rice
-
-BSPWM WORKHORSE
-  LINK : https://www.reddit.com/r/unixporn/comments/13m2rwl/bspwm_obsessively_optimized_workhorse_setup_for/
-  TYPE : rice
-
-I3 WIP
-  LINK : https://www.reddit.com/r/unixporn/comments/13thfne/i3_still_wip_just_cant_wait_to_make_a_first_post/
-  TYPE : rice
-
-SIMPLE YET EFFECTIVE
-  LINK : https://github.com/akhoanv/simple_yet_effective/
-  TPYE : rice
   
-  ROFI THEMES
-  LINK : https://github.com/adi1090x/rofi
-  TYPE : rice
-
-STARFETCH
-  LINK : https://github.com/Haruno19/starfetch
-  TYPE : rice
-
-SHELCASTER PODCASTS
-  LINK : https://github.com/jeff-hughes/shellcaster
-  TYPE : rice
-
-I3 VOLUME BRIGHTNESS INDICCATOR
-  LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
-  TYPE : rice
-
-LOBSTER TV & MOVIES
-  LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
-  TYPE : rice
-
-LIST OF XKEYS
-  LINK : https://github.com/qtile/qtile/blob/master/libqtile/backend/x11/xkeysyms.py
-  TYPE : rice
-
-EPUB READER
-  LINK : https://github.com/wustho/epr
-  TYPE : rice
-
-THERE IS NO HORIZON
-  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
-  TYPE : rice
-
-MAKE LINUX LIVE ISO
-  LINK : https://github.com/emmett1/linuxliveiso
-  TYPE : rice
-
-PICOM CONF
-  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
-  TYPE : rice
-
-PICOM FORK
-  LINK : https://github.com/jonaburg/picom
-  TYPE : rice
-
-DEBIAN REPOS
-  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
-  TYPE : rice
-
-3D CUBE WITH OPENGL
-  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
-  TYPE : rice
-
-KITTY CONFIGURATION
-  LINK : https://github.com/maximbaz/dotfiles/blob/master/.config/kitty/kitty.conf
-  TYPE : rice
-
-REDSHIFT
-  LINK : http://jonls.dk/redshift/
-  TYPE : rice
-
-GNOMINTOSH
-  LINK : https://github.com/jothi-prasath/gnomintosh
-  TYPE : rice
-
-NVCHAD
-  LINK : https://github.com/NvChad/NvChad
-  TYPE : rice
-
-QTILE AUTORICING
-  LINK : https://www.reddit.com/r/unixporn/comments/13zz2pm/qtile_auto_ricing_animations_pywal_rofi_themes/
-  TYPE : rice
-
-VOID MONOCHROME
-  LINK : https://www.reddit.com/r/unixporn/comments/11k9wad/dwm_void_linux_and_monochrome_all_day/
-  TYPE : rice
-
-BSPDOTS
-  LINK : https://github.com/juminai/bspdots
-  TYPE : rice
-
-I3 BRUTALISM
-  LINK : https://www.reddit.com/r/unixporn/comments/ftmpvj/i3gaps_inspired_by_brutalism/
-  TYPE : rice
-
-QTILE BLUE MATERIA
-  LINK : https://www.reddit.com/r/unixporn/comments/vjwqwq/qtileblue_materia/
-  TYPE : rice
-
-QTILE HUH
-  LINK : https://www.reddit.com/r/unixporn/comments/y5s7fi/qtile_huh/
-  TYPE : rice
-
-QTILE PLASMA
-  LINK : https://www.reddit.com/r/unixporn/comments/xre2vt/qtile_plasma_the_cursed_abomination_of_my/
-  TYPE : rice
-
-QTILE CATPPUCCIN
-  LINK : https://www.reddit.com/r/unixporn/comments/112r709/qtile_simple_but_practical_catppuccin_rice/
-  TYPE : rice
-
-QTILE NORD
-  LINK : https://www.reddit.com/r/unixporn/comments/13vw74w/qtile_nord_themed_rice/
-  TYPE : rice
-
-QTILE ARCH RICING SCRIPTS
-  LINK : https://github.com/gibranlp/QARSlp
-  TYPE : rice
-
-AVERAGE RICER
-  LINK : https://www.reddit.com/r/unixporn/comments/11ms1xj/i3_average_unixporn_ricer/
-  TYPE : rice
-
-SWAY SERENITY
-  LINK : https://www.reddit.com/r/unixporn/comments/13771ba/sway_i_think_ill_call_it_serenity/
-  TYPE : rice
-
-GNOME RIGHT
-  LINK : https://www.reddit.com/r/unixporn/comments/13j0h30/gnome_my_first_rice_am_i_doing_it_right/
-  TYPE : rice
-
-BSPWM EWW
-  LINK : https://www.reddit.com/r/unixporn/comments/13jlj81/bspwm_eww/
-  TYPE : rice
-
-BSPWM WORKHORSE
-  LINK : https://www.reddit.com/r/unixporn/comments/13m2rwl/bspwm_obsessively_optimized_workhorse_setup_for/
-  TYPE : rice
-
-I3 WIP
-  LINK : https://www.reddit.com/r/unixporn/comments/13thfne/i3_still_wip_just_cant_wait_to_make_a_first_post/
-  TYPE : rice
-
-SIMPLE YET EFFECTIVE
-  LINK : https://github.com/akhoanv/simple_yet_effective/
-  TPYE : rice
-
-Abduzeedo
-  LINK : https://abduzeedo.com/
-  TYPE : uiux
-
-Huyang, Lu
-  LINK : https://luyuhang.net/
-  TYPE : uiux
-
-The Noun Project
-  LINK : https://thenounproject.com/
-  TYPE : uiux
-  NOTE : 'Icons and Photos for Everything'
-
-FLATICON
-  LINK : https://www.flaticon.com/
-  TYPE : uiux
-  NOTE : 'vector icons & stickers'
-
-UNSPLASH
-  LINK : https://unsplash.com/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Freely usable images.
-
-TYMPANUS CODROPS
-  LINK : https://tympanus.net/codrops/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : CSS and HTML examples.
-
-ENVATO
-  LINK : https://www.envato.com/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Marketplace for scripts, logos and templates.
-
-LAMBDA TEST
-  LINK : https://www.lambdatest.com/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Mobile Apps and Cross Browser Testing Cloud.
-
-COMPARIUM
-  LINK : https://comparium.app/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Check webpage compatibility with different browsers and platforms.
-
-DAREBOOST
-  LINK : https://www.dareboost.com/en/compare
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Measure and compare Speed and Quality of two web pages.
-
-IWANTMYNAME
-  LINK : https://iwantmyname.com/?domain
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Search available domain names.
-
-PRESTA SHOP
-  LINK : https://github.com/PrestaShop/PrestaShop
-  TYPE : uiux
-  TAGS : web design
-  NOTE : universal Open-Source software platform to build your e-commerce solution.
-  
-CSS3 PATTERNS GALLERY
-  LINK : https://projects.verou.me/css3patterns/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Patterns and backgrounds made with pure CSS.
-
-CSS MATIC
-  LINK : https://www.cssmatic.com/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : CSS tools for web designers: Gradients, Border Radius, Noise textures & Box Shadows.
-
-COLOR-HEX
-  LINK : https://www.color-hex.com/color-palettes/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Color palettes, color schemes.
-
-AWWWARDS
-  LINK : https://www.awwwards.com/
-  TYPE : uiux
-  TAGS : web design
-  NOTE : Collection of impressive web designs.
-
-
-
-
-
-
-
-
-WYNNCRAFT GATHERING PLACES
-  LINK : https://forums.wynncraft.com/threads/list-of-places-to-gather-materials.239484/
-  TYPE : games
-  TAGS : wynncraft
-
-WYNNBUILDER | CUMULONIMBUS SET
-  LINK : https://hppeng-wynn.github.io/builder/#8_0Au09-0jn0wh0vI0vI0K40OH07f0s0Y0Y0J1Z1g000000z0z0+0+0+0+0-llwpppl1
-  TYPE : games
-  TAGS : wynncraft
-
-SKIN MC | BANNER GENERATOR
-  LINK : https://skinmc.net/banner/editor
-  TYPE : games
-  TAGS : minecraft
-
-
-
-
-
-Z-LIB
-  LINK : https://z-lib.org
-  TYPE : downloads
-  NOTE : The world's largest ebook library.
-  TAGS : downloads
-
-PROJECT GUTENBERG
-  LINK : https://www.gutenberg.org/ebooks/search/?sort_order=downloads
-  TYPE : downloads
-  NOTE : Project Gutenberg was the first provider of eBooks. Michael Hart, founder of Project Gutenberg, invented eBooks in 1971.
-
-OPEN LIBRARY
-  LINK : https://openlibrary.org/
-  TYPE : downloads
-  NOTE : Internet Archive's Library.
-  TAGS : downloads
-
-SCI-HUB
-  LINK : https://sci-hub.se/
-  TYPE : downloads
-  NOTE : free and unrestricted access to all scientific knowledge.
-
-SEMANTIC SCHOLAR
-  LINK : https://www.semanticscholar.org/
-  TYPE : downloads
-  NOTE : A free, AI-powered research tool for scientific literature
-
-LIBRARY GENESIS
-  LINK : https://libgen.is/
-  TYPE : downloads
-  NOTE : .rs .is & .st domains.
-
-Feedboks | Public Domain
-  LINK : https://www.feedbooks.com/catalog/public_domain
-  TYPE : downloads
-  NOTE : Public domain books
-
-24SYMBOLS
-  LINK : https://www.24symbols.com/
-  TYPE : downloads
-  NOTE : Subscribe to enjoy more than 500,000 e-books on all your digital devices.
-
-GANSO Y PULPO
-  LINK : https://gansoypulpo.com/
-  TYPE : downloads
-  NOTE : proyecto editorial independiente sin ánimo de lucro que pretende reeditar y publicar/difundir textos literarios de difícil acceso y que son considerados de dominio público.
-  
-ELEJANDRIA
-  LINK : https://www.elejandria.com/
-  TYPE : downloads
-  NOTE : Libros de dominio público.
-
-SCRIB DOWNLOADER
-  LINK : https://docdownloader.com/
-  TYPE : downloads
-
-EPUB LIBRE
-  LINK : https://www.epublibre.org/
-  TYPE : downloads
-
-LECTULANDIA
-  LINK : https://ww3.lectulandia.com/
-  TYPE : downloads
-
-EBOOKELO
-  LINK : https://ww2.ebookelo.com/
-  TYPE : downloads
-
-EPUB GRATIS
-  LINK : https://www.epubgratis.info/
-  TYPE : downloads
-
-PLANETA LIBRO
-  LINK : https://planetalibro.net/
-  TYPE : downloads
-
-WIKISOURCER
-  LINK : https://es.wikisource.org/wiki/Portada  
-  TYPE : downloads
-
-E-READING CLUB
-  LINK : https://www.e-reading.club/
-  TYPE : downloads
-  NOTE : Russian site
-
-
-
-
-
-
-
-
-
-
 SMART EDGE
   LINK : https://github.com/abh80/smart-edge
   TYPE : software
@@ -998,6 +517,370 @@ MINIMALIST
   TYPE : software
   TAGS : login manager, sddm
 
+ROFI THEMES
+  LINK : https://github.com/adi1090x/rofi
+  TYPE : software
+  TAGS : rice
+
+STARFETCH
+  LINK : https://github.com/Haruno19/starfetch
+  TYPE : software
+
+SHELCASTER PODCASTS
+  LINK : https://github.com/jeff-hughes/shellcaster
+  TYPE : software
+
+I3 VOLUME BRIGHTNESS INDICCATOR
+  LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
+  TYPE : software
+
+LOBSTER TV & MOVIES
+  LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
+  TYPE : software
+
+LIST OF XKEYS
+  LINK : https://github.com/qtile/qtile/blob/master/libqtile/backend/x11/xkeysyms.py
+  TYPE : software
+
+EPUB READER
+  LINK : https://github.com/wustho/epr
+  TYPE : software
+
+THERE IS NO HORIZON
+  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
+  TYPE : software
+
+MAKE LINUX LIVE ISO
+  LINK : https://github.com/emmett1/linuxliveiso
+  TYPE : software
+
+PICOM CONF
+  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
+  TYPE : software
+
+PICOM FORK
+  LINK : https://github.com/jonaburg/picom
+  TYPE : software
+
+DEBIAN REPOS
+  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
+  TYPE : software
+
+3D CUBE WITH OPENGL
+  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
+  TYPE : software
+
+KITTY CONFIGURATION
+  LINK : https://github.com/maximbaz/dotfiles/blob/master/.config/kitty/kitty.conf
+  TYPE : software
+
+REDSHIFT
+  LINK : http://jonls.dk/redshift/
+  TYPE : software
+
+GNOMINTOSH
+  LINK : https://github.com/jothi-prasath/gnomintosh
+  TYPE : software
+
+NVCHAD
+  LINK : https://github.com/NvChad/NvChad
+  TYPE : software
+
+QTILE AUTORICING
+  LINK : https://www.reddit.com/r/unixporn/comments/13zz2pm/qtile_auto_ricing_animations_pywal_rofi_themes/
+  TYPE : software
+
+VOID MONOCHROME
+  LINK : https://www.reddit.com/r/unixporn/comments/11k9wad/dwm_void_linux_and_monochrome_all_day/
+  TYPE : software
+
+BSPDOTS
+  LINK : https://github.com/juminai/bspdots
+  TYPE : software
+
+I3 BRUTALISM
+  LINK : https://www.reddit.com/r/unixporn/comments/ftmpvj/i3gaps_inspired_by_brutalism/
+  TYPE : software
+
+QTILE BLUE MATERIA
+  LINK : https://www.reddit.com/r/unixporn/comments/vjwqwq/qtileblue_materia/
+  TYPE : software
+
+QTILE HUH
+  LINK : https://www.reddit.com/r/unixporn/comments/y5s7fi/qtile_huh/
+  TYPE : software
+
+QTILE PLASMA
+  LINK : https://www.reddit.com/r/unixporn/comments/xre2vt/qtile_plasma_the_cursed_abomination_of_my/
+  TYPE : software
+
+QTILE CATPPUCCIN
+  LINK : https://www.reddit.com/r/unixporn/comments/112r709/qtile_simple_but_practical_catppuccin_software/
+  TYPE : software
+
+QTILE NORD
+  LINK : https://www.reddit.com/r/unixporn/comments/13vw74w/qtile_nord_themed_software/
+  TYPE : software
+
+QTILE ARCH RICING SCRIPTS
+  LINK : https://github.com/gibranlp/QARSlp
+  TYPE : software
+
+AVERAGE RICER
+  LINK : https://www.reddit.com/r/unixporn/comments/11ms1xj/i3_average_unixporn_softwarer/
+  TYPE : software
+
+SWAY SERENITY
+  LINK : https://www.reddit.com/r/unixporn/comments/13771ba/sway_i_think_ill_call_it_serenity/
+  TYPE : software
+
+GNOME RIGHT
+  LINK : https://www.reddit.com/r/unixporn/comments/13j0h30/gnome_my_first_software_am_i_doing_it_right/
+  TYPE : software
+
+BSPWM EWW
+  LINK : https://www.reddit.com/r/unixporn/comments/13jlj81/bspwm_eww/
+  TYPE : software
+
+BSPWM WORKHORSE
+  LINK : https://www.reddit.com/r/unixporn/comments/13m2rwl/bspwm_obsessively_optimized_workhorse_setup_for/
+  TYPE : software
+
+I3 WIP
+  LINK : https://www.reddit.com/r/unixporn/comments/13thfne/i3_still_wip_just_cant_wait_to_make_a_first_post/
+  TYPE : software
+
+SIMPLE YET EFFECTIVE
+  LINK : https://github.com/akhoanv/simple_yet_effective/
+  TPYE : software
+  
+  ROFI THEMES
+  LINK : https://github.com/adi1090x/rofi
+  TYPE : software
+
+STARFETCH
+  LINK : https://github.com/Haruno19/starfetch
+  TYPE : software
+
+SHELCASTER PODCASTS
+  LINK : https://github.com/jeff-hughes/shellcaster
+  TYPE : software
+
+I3 VOLUME BRIGHTNESS INDICCATOR
+  LINK : https://gitlab.com/Nmoleo/i3-volume-brightness-indicator
+  TYPE : software
+
+LOBSTER TV & MOVIES
+  LINK : https://www.reddit.com/r/unixporn/comments/w74e9m/oc_lobster_minimalist_cli_script_for_watching_tv/
+  TYPE : software
+
+LIST OF XKEYS
+  LINK : https://github.com/qtile/qtile/blob/master/libqtile/backend/x11/xkeysyms.py
+  TYPE : software
+
+EPUB READER
+  LINK : https://github.com/wustho/epr
+  TYPE : software
+
+THERE IS NO HORIZON
+  LINK : https://www.reddit.com/r/unixporn/comments/kl7vcs/openboxorw_there_is_no_horizon/
+  TYPE : software
+
+MAKE LINUX LIVE ISO
+  LINK : https://github.com/emmett1/linuxliveiso
+  TYPE : software
+
+PICOM CONF
+  LINK : https://github.com/4lgn/dotfiles/blob/bspwm/.config/picom.conf
+  TYPE : software
+
+PICOM FORK
+  LINK : https://github.com/jonaburg/picom
+  TYPE : software
+
+DEBIAN REPOS
+  LINK : https://packages.debian.org/search?suite=bullseye&section=all&arch=any&searchon=names&keywords=libglib
+  TYPE : software
+
+3D CUBE WITH OPENGL
+  LINK : https://www.reddit.com/r/unixporn/comments/15yvggy/i3_glsl/
+  TYPE : software
+
+KITTY CONFIGURATION
+  LINK : https://github.com/maximbaz/dotfiles/blob/master/.config/kitty/kitty.conf
+  TYPE : software
+
+REDSHIFT
+  LINK : http://jonls.dk/redshift/
+  TYPE : software
+
+GNOMINTOSH
+  LINK : https://github.com/jothi-prasath/gnomintosh
+  TYPE : software
+
+NVCHAD
+  LINK : https://github.com/NvChad/NvChad
+  TYPE : software
+
+QTILE AUTORICING
+  LINK : https://www.reddit.com/r/unixporn/comments/13zz2pm/qtile_auto_ricing_animations_pywal_rofi_themes/
+  TYPE : software
+
+VOID MONOCHROME
+  LINK : https://www.reddit.com/r/unixporn/comments/11k9wad/dwm_void_linux_and_monochrome_all_day/
+  TYPE : software
+
+BSPDOTS
+  LINK : https://github.com/juminai/bspdots
+  TYPE : software
+
+I3 BRUTALISM
+  LINK : https://www.reddit.com/r/unixporn/comments/ftmpvj/i3gaps_inspired_by_brutalism/
+  TYPE : software
+
+QTILE BLUE MATERIA
+  LINK : https://www.reddit.com/r/unixporn/comments/vjwqwq/qtileblue_materia/
+  TYPE : software
+
+QTILE HUH
+  LINK : https://www.reddit.com/r/unixporn/comments/y5s7fi/qtile_huh/
+  TYPE : software
+
+QTILE PLASMA
+  LINK : https://www.reddit.com/r/unixporn/comments/xre2vt/qtile_plasma_the_cursed_abomination_of_my/
+  TYPE : software
+
+QTILE CATPPUCCIN
+  LINK : https://www.reddit.com/r/unixporn/comments/112r709/qtile_simple_but_practical_catppuccin_software/
+  TYPE : software
+
+QTILE NORD
+  LINK : https://www.reddit.com/r/unixporn/comments/13vw74w/qtile_nord_themed_software/
+  TYPE : software
+
+QTILE ARCH RICING SCRIPTS
+  LINK : https://github.com/gibranlp/QARSlp
+  TYPE : software
+
+AVERAGE RICER
+  LINK : https://www.reddit.com/r/unixporn/comments/11ms1xj/i3_average_unixporn_softwarer/
+  TYPE : software
+
+SWAY SERENITY
+  LINK : https://www.reddit.com/r/unixporn/comments/13771ba/sway_i_think_ill_call_it_serenity/
+  TYPE : software
+
+GNOME RIGHT
+  LINK : https://www.reddit.com/r/unixporn/comments/13j0h30/gnome_my_first_software_am_i_doing_it_right/
+  TYPE : software
+
+BSPWM EWW
+  LINK : https://www.reddit.com/r/unixporn/comments/13jlj81/bspwm_eww/
+  TYPE : software
+
+BSPWM WORKHORSE
+  LINK : https://www.reddit.com/r/unixporn/comments/13m2rwl/bspwm_obsessively_optimized_workhorse_setup_for/
+  TYPE : software
+
+I3 WIP
+  LINK : https://www.reddit.com/r/unixporn/comments/13thfne/i3_still_wip_just_cant_wait_to_make_a_first_post/
+  TYPE : software
+
+SIMPLE YET EFFECTIVE
+  LINK : https://github.com/akhoanv/simple_yet_effective/
+  TPYE : software
+
+
+
+
+
+
+
+
+Z-LIB
+  LINK : https://z-lib.org
+  TYPE : downloads
+  NOTE : The world's largest ebook library.
+  TAGS : downloads
+
+PROJECT GUTENBERG
+  LINK : https://www.gutenberg.org/ebooks/search/?sort_order=downloads
+  TYPE : downloads
+  NOTE : Project Gutenberg was the first provider of eBooks. Michael Hart, founder of Project Gutenberg, invented eBooks in 1971.
+
+OPEN LIBRARY
+  LINK : https://openlibrary.org/
+  TYPE : downloads
+  NOTE : Internet Archive's Library.
+  TAGS : downloads
+
+SCI-HUB
+  LINK : https://sci-hub.se/
+  TYPE : downloads
+  NOTE : free and unrestricted access to all scientific knowledge.
+
+SEMANTIC SCHOLAR
+  LINK : https://www.semanticscholar.org/
+  TYPE : downloads
+  NOTE : A free, AI-powered research tool for scientific literature
+
+LIBRARY GENESIS
+  LINK : https://libgen.is/
+  TYPE : downloads
+  NOTE : .rs .is & .st domains.
+
+Feedboks | Public Domain
+  LINK : https://www.feedbooks.com/catalog/public_domain
+  TYPE : downloads
+  NOTE : Public domain books
+
+24SYMBOLS
+  LINK : https://www.24symbols.com/
+  TYPE : downloads
+  NOTE : Subscribe to enjoy more than 500,000 e-books on all your digital devices.
+
+GANSO Y PULPO
+  LINK : https://gansoypulpo.com/
+  TYPE : downloads
+  NOTE : proyecto editorial independiente sin ánimo de lucro que pretende reeditar y publicar/difundir textos literarios de difícil acceso y que son considerados de dominio público.
+  
+ELEJANDRIA
+  LINK : https://www.elejandria.com/
+  TYPE : downloads
+  NOTE : Libros de dominio público.
+
+SCRIB DOWNLOADER
+  LINK : https://docdownloader.com/
+  TYPE : downloads
+
+EPUB LIBRE
+  LINK : https://www.epublibre.org/
+  TYPE : downloads
+
+LECTULANDIA
+  LINK : https://ww3.lectulandia.com/
+  TYPE : downloads
+
+EBOOKELO
+  LINK : https://ww2.ebookelo.com/
+  TYPE : downloads
+
+EPUB GRATIS
+  LINK : https://www.epubgratis.info/
+  TYPE : downloads
+
+PLANETA LIBRO
+  LINK : https://planetalibro.net/
+  TYPE : downloads
+
+WIKISOURCER
+  LINK : https://es.wikisource.org/wiki/Portada  
+  TYPE : downloads
+
+E-READING CLUB
+  LINK : https://www.e-reading.club/
+  TYPE : downloads
+  NOTE : Russian site
 
 
 
@@ -1008,6 +891,95 @@ MINIMALIST
 
 
 
+Abduzeedo
+  LINK : https://abduzeedo.com/
+  TYPE : uiux
+
+Huyang, Lu
+  LINK : https://luyuhang.net/
+  TYPE : uiux
+
+The Noun Project
+  LINK : https://thenounproject.com/
+  TYPE : uiux
+  NOTE : 'Icons and Photos for Everything'
+
+FLATICON
+  LINK : https://www.flaticon.com/
+  TYPE : uiux
+  NOTE : 'vector icons & stickers'
+
+UNSPLASH
+  LINK : https://unsplash.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Freely usable images.
+
+TYMPANUS CODROPS
+  LINK : https://tympanus.net/codrops/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : CSS and HTML examples.
+
+ENVATO
+  LINK : https://www.envato.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Marketplace for scripts, logos and templates.
+
+LAMBDA TEST
+  LINK : https://www.lambdatest.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Mobile Apps and Cross Browser Testing Cloud.
+
+COMPARIUM
+  LINK : https://comparium.app/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Check webpage compatibility with different browsers and platforms.
+
+DAREBOOST
+  LINK : https://www.dareboost.com/en/compare
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Measure and compare Speed and Quality of two web pages.
+
+IWANTMYNAME
+  LINK : https://iwantmyname.com/?domain
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Search available domain names.
+
+PRESTA SHOP
+  LINK : https://github.com/PrestaShop/PrestaShop
+  TYPE : uiux
+  TAGS : web design
+  NOTE : universal Open-Source software platform to build your e-commerce solution.
+  
+CSS3 PATTERNS GALLERY
+  LINK : https://projects.verou.me/css3patterns/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Patterns and backgrounds made with pure CSS.
+
+CSS MATIC
+  LINK : https://www.cssmatic.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : CSS tools for web designers: Gradients, Border Radius, Noise textures & Box Shadows.
+
+COLOR-HEX
+  LINK : https://www.color-hex.com/color-palettes/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Color palettes, color schemes.
+
+AWWWARDS
+  LINK : https://www.awwwards.com/
+  TYPE : uiux
+  TAGS : web design
+  NOTE : Collection of impressive web designs.
 
 
 
@@ -1017,67 +989,6 @@ MINIMALIST
 
 
 
-
-
-
-
-MEDICAL NEWS TODAY
-  LINK : https://www.medicalnewstoday.com/
-  TYPE : news
-
-THE DAILY SWIG
-  LINK : https://portswigger.net/daily-swig
-  TYPE : news
-  NOTE : Cybersecurity news and views.
-
-THE EPOCH TIMES 
-  LINK : https://www.theepochtimes.com/
-  TYPE : news
-
-VOLTAIRE NETWORK
-  LINK : https://www.voltairenet.org/?lang=en 
-  TYPE : news
-
-S&P GLOBAL
-  LINK : https://www.spglobal.com/en/  
-  TYPE : news
-
-BARCHART
-  LINK : https://www.barchart.com/
-  TYPE : news
-
-MARKET SCREENER
-  LINK : https://www.marketscreener.com/
-  TYPE : news
-
-MARKET WATCH
-  LINK : https://www.marketwatch.com/
-  TYPE : news
-  NOTE : Financial news.
-
-YAHOO FINANCE
-  LINK :  https://finance.yahoo.com/
-  TYPE : news
-
-npr
-  LINK : https://www.npr.org/
-  TYPE : news
-
-MUNDIARIO
-  LINK : https://www.mundiario.com/
-  TYPE : news
-
-FOREX FACTORY
-  LINK : https://www.forexfactory.com/
-  TYPE : news
-
-CRYPTO BRIEFIGN
-  LINK : https://cryptobriefing.com/
-  TYPE : news
-
-MADDISON PROJECT
-  LINK : https://www.rug.nl/ggdc/historicaldevelopment/maddison/
-  TYPE : news
 
 
 THE OPEN UNIVERSITY
@@ -1248,4 +1159,93 @@ TENSOR CHARTS
   LINK : https://thirddimension.exchange/
   TYPE : finance
   NOTE : Multiple exchanges & data providers.
+
+
+
+
+
+
+
+
+
+MEDICAL NEWS TODAY
+  LINK : https://www.medicalnewstoday.com/
+  TYPE : news
+
+THE DAILY SWIG
+  LINK : https://portswigger.net/daily-swig
+  TYPE : news
+  NOTE : Cybersecurity news and views.
+
+THE EPOCH TIMES 
+  LINK : https://www.theepochtimes.com/
+  TYPE : news
+
+VOLTAIRE NETWORK
+  LINK : https://www.voltairenet.org/?lang=en 
+  TYPE : news
+
+S&P GLOBAL
+  LINK : https://www.spglobal.com/en/  
+  TYPE : news
+
+BARCHART
+  LINK : https://www.barchart.com/
+  TYPE : news
+
+MARKET SCREENER
+  LINK : https://www.marketscreener.com/
+  TYPE : news
+
+MARKET WATCH
+  LINK : https://www.marketwatch.com/
+  TYPE : news
+  NOTE : Financial news.
+
+YAHOO FINANCE
+  LINK :  https://finance.yahoo.com/
+  TYPE : news
+
+npr
+  LINK : https://www.npr.org/
+  TYPE : news
+
+MUNDIARIO
+  LINK : https://www.mundiario.com/
+  TYPE : news
+
+FOREX FACTORY
+  LINK : https://www.forexfactory.com/
+  TYPE : news
+
+CRYPTO BRIEFIGN
+  LINK : https://cryptobriefing.com/
+  TYPE : news
+
+MADDISON PROJECT
+  LINK : https://www.rug.nl/ggdc/historicaldevelopment/maddison/
+  TYPE : news
+
+
+
+
+
+
+
+
+
+WYNNCRAFT GATHERING PLACES
+  LINK : https://forums.wynncraft.com/threads/list-of-places-to-gather-materials.239484/
+  TYPE : games
+  TAGS : wynncraft
+
+WYNNBUILDER | CUMULONIMBUS SET
+  LINK : https://hppeng-wynn.github.io/builder/#8_0Au09-0jn0wh0vI0vI0K40OH07f0s0Y0Y0J1Z1g000000z0z0+0+0+0+0-llwpppl1
+  TYPE : games
+  TAGS : wynncraft
+
+SKIN MC | BANNER GENERATOR
+  LINK : https://skinmc.net/banner/editor
+  TYPE : games
+  TAGS : minecraft
 `
