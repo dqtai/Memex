@@ -22,7 +22,7 @@ function Util()
         case 'service': icon = 'fas fa-server'; break;
         case 'guides': icon = 'fas fa-chalkboard-teacher'; break;
         case 'quote': icon = 'fas fa-comment'; break;
-        case 'tool': icon = 'fa-solid fa-display'; break;
+        case 'tool': icon = 'far fa-desktop'; break;
         case 'music': icon = 'fas fa-music'; break;
         case 'image': icon = 'fas fa-image'; break;
         case 'encyclopedia': icon = 'fas fa-globe'; break;
