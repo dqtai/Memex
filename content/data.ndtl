@@ -1169,6 +1169,11 @@ DEX GURU
   LINK : https://dex.guru
   TYPE : finance
 
+MINTSCAN
+  LINK : https://www.mintscan.io/
+  TYPE : finance
+  NOTE : Interchain explorer and analytics.
+
 POOCOIN
   LINK : https://poocoin.app/
   TYPE : finance
